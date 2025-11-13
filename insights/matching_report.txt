@@ -1,0 +1,31 @@
+
+================================================================================
+MATCHING RESULTS REPORT
+================================================================================
+
+Source of Truth: Wikipedia (611 films)
+
+IMDB Matching:
+  - Matched: 393 films (64.3%)
+  - Unmatched Wikipedia films: 218
+  - IMDB total records: 393
+  - Method breakdown:
+    * From Letterboxd URL: 393
+    * From name+year exact: -42
+    * From name-only (year-agnostic): 42
+
+Rotten Tomatoes Matching:
+  - Matched: 466 films (76.3%)
+  - Unmatched Wikipedia films: 145
+  - Method breakdown:
+    * Direct match: 149
+    * Name without year: 319
+
+Letterboxd Matching:
+  - Matched: 610 films (99.8%)
+  - Unmatched Wikipedia films: 1
+
+Films missing from all external sources:
+  - None! All films found in at least one source.
+
+================================================================================

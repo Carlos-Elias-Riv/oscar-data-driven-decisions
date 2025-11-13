@@ -1,0 +1,146 @@
+Film,Year of Film Release,clean_name,is_winner
+The Big House,1929/30 (3rd),the-big-house-1929,False
+Disraeli,1929/30 (3rd),disraeli-1929,False
+The Divorcee,1929/30 (3rd),the-divorcee-1929,False
+East Lynne,1930/31 (4th),east-lynne-1930,False
+The Front Page,1930/31 (4th),the-front-page-1930,False
+Skippy,1930/31 (4th),skippy-1930,False
+Bad Girl,1931/32 (5th),bad-girl-1931,False
+Shanghai Express,1931/32 (5th),shanghai-express-1931,False
+A Farewell to Arms,1932/33 (6th) [b],a-farewell-to-arms-1932,False
+Little Women,1932/33 (6th) [b],little-women-1932,False
+The Private Life of Henry VIII,1932/33 (6th) [b],the-private-life-of-henry-viii-1932,False
+Smilin' Through,1932/33 (6th) [b],smilin-through-1932,False
+State Fair,1932/33 (6th) [b],state-fair-1932,False
+The Barretts of Wimpole Street,1934 (7th) [c],the-barretts-of-wimpole-street-1934,False
+Cleopatra,1934 (7th) [c],cleopatra-1934,False
+The Gay Divorcee,1934 (7th) [c],the-gay-divorcee-1934,False
+The White Parade,1934 (7th) [c],the-white-parade-1934,False
+The Lives of a Bengal Lancer,1935 (8th) [d],the-lives-of-a-bengal-lancer-1935,False
+A Midsummer Night's Dream,1935 (8th) [d],a-midsummer-nights-dream-1935,False
+Les Misérables,1935 (8th) [d],les-miserables-1935,False
+Romeo and Juliet,1936 (9th),romeo-and-juliet-1936,False
+The Story of Louis Pasteur,1936 (9th),the-story-of-louis-pasteur-1936,False
+A Tale of Two Cities,1936 (9th),a-tale-of-two-cities-1936,False
+The Life of Emile Zola,1937 (10th),the-life-of-emile-zola-1937,True
+The Awful Truth,1937 (10th),the-awful-truth-1937,False
+The Good Earth,1937 (10th),the-good-earth-1937,False
+One Hundred Men and a Girl,1937 (10th),one-hundred-men-and-a-girl-1937,False
+Pygmalion,1938 (11th),pygmalion-1938,False
+Test Pilot,1938 (11th),test-pilot-1938,False
+"Goodbye, Mr. Chips",1939 (12th),goodbye-mr-chips-1939,False
+Of Mice and Men,1939 (12th),of-mice-and-men-1939,False
+Stagecoach,1939 (12th),stagecoach-1939,False
+The Grapes of Wrath,1940 (13th),the-grapes-of-wrath-1940,False
+The Great Dictator,1940 (13th),the-great-dictator-1940,False
+Our Town,1940 (13th),our-town-1940,False
+The Magnificent Ambersons,1942 (15th),the-magnificent-ambersons-1942,False
+The Pied Piper,1942 (15th),the-pied-piper-1942,False
+The Pride of the Yankees,1942 (15th),the-pride-of-the-yankees-1942,False
+The Talk of the Town,1942 (15th),the-talk-of-the-town-1942,False
+Casablanca,1943 (16th),casablanca-1943,True
+The Ox-Bow Incident,1943 (16th),the-ox-bow-incident-1943,False
+The Song of Bernadette,1943 (16th),the-song-of-bernadette-1943,False
+The Lost Weekend,1945 (18th),the-lost-weekend-1945,True
+The Bells of St. Mary's,1945 (18th),the-bells-of-st-marys-1945,False
+Spellbound,1945 (18th),spellbound-1945,False
+The Best Years of Our Lives,1946 (19th),the-best-years-of-our-lives-1946,True
+The Red Shoes,1948 (21st),the-red-shoes-1948,False
+The Snake Pit,1948 (21st),the-snake-pit-1948,False
+The Treasure of the Sierra Madre,1948 (21st),the-treasure-of-the-sierra-madre-1948,False
+The Heiress,1949 (22nd),the-heiress-1949,False
+A Letter to Three Wives,1949 (22nd),a-letter-to-three-wives-1949,False
+Twelve O'Clock High,1949 (22nd),twelve-oclock-high-1949,False
+All About Eve,1950 (23rd),all-about-eve-1950,True
+Born Yesterday,1950 (23rd),born-yesterday-1950,False
+Father of the Bride,1950 (23rd),father-of-the-bride-1950,False
+A Place in the Sun,1951 (24th),a-place-in-the-sun-1951,False
+Quo Vadis,1951 (24th),quo-vadis-1951,False
+The Greatest Show on Earth,1952 (25th),the-greatest-show-on-earth-1952,True
+High Noon,1952 (25th),high-noon-1952,False
+Moulin Rouge,1952 (25th),moulin-rouge-1952,False
+The Quiet Man,1952 (25th),the-quiet-man-1952,False
+From Here to Eternity,1953 (26th),from-here-to-eternity-1953,True
+The Robe,1953 (26th),the-robe-1953,False
+The Caine Mutiny,1954 (27th),the-caine-mutiny-1954,False
+The Country Girl,1954 (27th),the-country-girl-1954,False
+Mister Roberts,1955 (28th),mister-roberts-1955,False
+The Rose Tattoo,1955 (28th),the-rose-tattoo-1955,False
+The Ten Commandments,1956 (29th),the-ten-commandments-1956,False
+The Bridge on the River Kwai,1957 (30th),the-bridge-on-the-river-kwai-1957,True
+12 Angry Men,1957 (30th),12-angry-men-1957,False
+The Defiant Ones,1958 (31st),the-defiant-ones-1958,False
+Separate Tables,1958 (31st),separate-tables-1958,False
+The Diary of Anne Frank,1959 (32nd),the-diary-of-anne-frank-1959,False
+The Alamo,1960 (33rd),the-alamo-1960,False
+Sons and Lovers,1960 (33rd),sons-and-lovers-1960,False
+The Sundowners,1960 (33rd),the-sundowners-1960,False
+The Guns of Navarone,1961 (34th),the-guns-of-navarone-1961,False
+The Hustler,1961 (34th),the-hustler-1961,False
+The Longest Day,1962 (35th),the-longest-day-1962,False
+Mutiny on the Bounty,1962 (35th),mutiny-on-the-bounty-1962,False
+Cleopatra,1963 (36th),cleopatra-1963,False
+Lilies of the Field,1963 (36th),lilies-of-the-field-1963,False
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964 (37th),dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964,False
+The Sound of Music,1965 (38th),the-sound-of-music-1965,True
+Darling,1965 (38th),darling-1965,False
+Doctor Zhivago,1965 (38th),doctor-zhivago-1965,False
+A Thousand Clowns,1965 (38th),a-thousand-clowns-1965,False
+A Man for All Seasons,1966 (39th),a-man-for-all-seasons-1966,True
+"The Russians Are Coming, the Russians Are Coming",1966 (39th),the-russians-are-coming-the-russians-are-coming-1966,False
+The Sand Pebbles,1966 (39th),the-sand-pebbles-1966,False
+The Graduate,1967 (40th),the-graduate-1967,False
+The Lion in Winter,1968 (41st),the-lion-in-winter-1968,False
+Butch Cassidy and the Sundance Kid,1969 (42nd),butch-cassidy-and-the-sundance-kid-1969,False
+A Clockwork Orange,1971 (44th),a-clockwork-orange-1971,False
+The Last Picture Show,1971 (44th),the-last-picture-show-1971,False
+Nicholas and Alexandra,1971 (44th),nicholas-and-alexandra-1971,False
+The Sting,1973 (46th),the-sting-1973,True
+A Touch of Class,1973 (46th),a-touch-of-class-1973,False
+The Godfather Part II,1974 (47th),the-godfather-part-ii-1974,True
+The Towering Inferno,1974 (47th),the-towering-inferno-1974,False
+Rocky,1976 (49th),rocky-1976,True
+Julia,1977 (50th),julia-1977,False
+The Turning Point,1977 (50th),the-turning-point-1977,False
+Heaven Can Wait,1978 (51st),heaven-can-wait-1978,False
+An Unmarried Woman,1978 (51st),an-unmarried-woman-1978,False
+The Elephant Man,1980 (53rd),the-elephant-man-1980,False
+E.T. the Extra-Terrestrial,1982 (55th),et-the-extra-terrestrial-1982,False
+Missing,1982 (55th),missing-1982,False
+The Verdict,1982 (55th),the-verdict-1982,False
+The Big Chill,1983 (56th),the-big-chill-1983,False
+Witness,1985 (58th),witness-1985,False
+The Last Emperor,1987 (60th),the-last-emperor-1987,True
+Fatal Attraction,1987 (60th),fatal-attraction-1987,False
+Awakenings,1990 (63rd),awakenings-1990,False
+Ghost,1990 (63rd),ghost-1990,False
+The Godfather Part III,1990 (63rd),the-godfather-part-iii-1990,False
+The Prince of Tides,1991 (64th),the-prince-of-tides-1991,False
+The Crying Game,1992 (65th),the-crying-game-1992,False
+A Few Good Men,1992 (65th),a-few-good-men-1992,False
+Scent of a Woman,1992 (65th),scent-of-a-woman-1992,False
+The Piano,1993 (66th),the-piano-1993,False
+The Remains of the Day,1993 (66th),the-remains-of-the-day-1993,False
+Braveheart,1995 (68th),braveheart-1995,True
+Babe,1995 (68th),babe-1995,False
+Sense and Sensibility,1995 (68th),sense-and-sensibility-1995,False
+The English Patient,1996 (69th),the-english-patient-1996,True
+Secrets & Lies,1996 (69th),secrets-lies-1996,False
+The Full Monty,1997 (70th),the-full-monty-1997,False
+Elizabeth,1998 (71st),elizabeth-1998,False
+The Thin Red Line,1998 (71st),the-thin-red-line-1998,False
+The Cider House Rules,1999 (72nd),the-cider-house-rules-1999,False
+The Insider,1999 (72nd),the-insider-1999,False
+The Sixth Sense,1999 (72nd),the-sixth-sense-1999,False
+Traffic,2000 (73rd),traffic-2000,False
+The Hours,2002 (75th),the-hours-2002,False
+The Pianist,2002 (75th),the-pianist-2002,False
+Crash,2005 (78th),crash-2005,True
+Capote,2005 (78th),capote-2005,False
+The Curious Case of Benjamin Button,2008 (81st),the-curious-case-of-benjamin-button-2008,False
+Frost/Nixon,2008 (81st),frost-nixon-2008,False
+The Reader,2008 (81st),the-reader-2008,False
+"Precious: Based on the Novel ""Push"" by Sapphire",2009 (82nd),precious-based-on-the-novel-push-by-sapphire-2009,False
+Winter's Bone,2010 (83rd),winters-bone-2010,False
+Extremely Loud & Incredibly Close,2011 (84th),extremely-loud-incredibly-close-2011,False
+Birdman or (The Unexpected Virtue of Ignorance),2014 (87th),birdman-or-the-unexpected-virtue-of-ignorance-2014,True

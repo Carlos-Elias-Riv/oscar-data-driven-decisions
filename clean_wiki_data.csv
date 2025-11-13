@@ -1,0 +1,612 @@
+Year of Film Release,Film,Film Studio/Producer(s),is_winner,clean_name
+1927/28 (1st),Wings,"Famous Players–Lasky (Lucien Hubbard, Jesse L. Lasky, B. P. Schulberg, & Adolph Zukor, producers)",True,wings-1927
+1927/28 (1st),7th Heaven,"Fox (William Fox, producer)",False,7th-heaven-1927
+1927/28 (1st),The Racket,"The Caddo Company (Howard Hughes, producer)",False,the-racket-1927
+1928/29 (2nd) [a],The Broadway Melody,"Metro-Goldwyn-Mayer (Irving Thalberg & Lawrence Weingarten, producers)",True,the-broadway-melody-1928
+1928/29 (2nd) [a],Alibi,"Feature Productions (Roland West, producer)",False,alibi-1928
+1928/29 (2nd) [a],The Hollywood Revue,"Metro-Goldwyn-Mayer (Irving Thalberg & Harry Rapf, producers)",False,the-hollywood-revue-1928
+1928/29 (2nd) [a],In Old Arizona,"Fox (Winfield Sheehan, producer)",False,in-old-arizona-1928
+1928/29 (2nd) [a],The Patriot,Paramount Famous Lasky,False,the-patriot-1928
+1929/30 (3rd),All Quiet on the Western Front,"Universal (Carl Laemmle Jr., producer)",True,all-quiet-on-the-western-front-1929
+1929/30 (3rd),The Big House,"Cosmopolitan (Irving Thalberg, producer)",False,the-big-house-1929
+1929/30 (3rd),Disraeli,"Warner Bros. (Jack L. Warner & Darryl F. Zanuck, producers)",False,disraeli-1929
+1929/30 (3rd),The Divorcee,"Metro-Goldwyn-Mayer (Robert Z. Leonard, producer)",False,the-divorcee-1929
+1929/30 (3rd),The Love Parade,"Paramount Famous Lasky (Ernst Lubitsch, producer)",False,the-love-parade-1929
+1930/31 (4th),Cimarron,"RKO Radio (William LeBaron, producer)",True,cimarron-1930
+1930/31 (4th),East Lynne,Fox,False,east-lynne-1930
+1930/31 (4th),The Front Page,"The Caddo Company (Howard Hughes & Lewis Milestone, producers)",False,the-front-page-1930
+1930/31 (4th),Skippy,"Paramount Publix (Jesse L. Lasky, B. P. Schulberg, & Adolph Zukor, producers)",False,skippy-1930
+1930/31 (4th),Trader Horn,"Metro-Goldwyn-Mayer (Irving Thalberg, producer)",False,trader-horn-1930
+1931/32 (5th),Grand Hotel,"Metro-Goldwyn-Mayer (Irving Thalberg, producer)",True,grand-hotel-1931
+1931/32 (5th),Arrowsmith,"Samuel Goldwyn Productions (Samuel Goldwyn, producer)",False,arrowsmith-1931
+1931/32 (5th),Bad Girl,Fox,False,bad-girl-1931
+1931/32 (5th),The Champ,"Metro-Goldwyn-Mayer (King Vidor, producer)",False,the-champ-1931
+1931/32 (5th),Five Star Final,"First National (Hal B. Wallis, producer)",False,five-star-final-1931
+1931/32 (5th),One Hour with You,"Paramount Publix (Ernst Lubitsch, producer)",False,one-hour-with-you-1931
+1931/32 (5th),Shanghai Express,"Paramount Publix (Adolph Zukor, producer)",False,shanghai-express-1931
+1931/32 (5th),The Smiling Lieutenant,"Paramount Publix (Ernst Lubitsch, producer)",False,the-smiling-lieutenant-1931
+1932/33 (6th) [b],Cavalcade,"Fox (Frank Lloyd & Winfield Sheehan, producers)",True,cavalcade-1932
+1932/33 (6th) [b],42nd Street,Warner Bros.,False,42nd-street-1932
+1932/33 (6th) [b],A Farewell to Arms,Paramount,False,a-farewell-to-arms-1932
+1932/33 (6th) [b],I Am a Fugitive from a Chain Gang,Warner Bros.,False,i-am-a-fugitive-from-a-chain-gang-1932
+1932/33 (6th) [b],Lady for a Day,Columbia,False,lady-for-a-day-1932
+1932/33 (6th) [b],Little Women,RKO Radio,False,little-women-1932
+1932/33 (6th) [b],The Private Life of Henry VIII,London Films,False,the-private-life-of-henry-viii-1932
+1932/33 (6th) [b],She Done Him Wrong,Paramount,False,she-done-him-wrong-1932
+1932/33 (6th) [b],Smilin' Through,Metro-Goldwyn-Mayer,False,smilin-through-1932
+1932/33 (6th) [b],State Fair,Fox,False,state-fair-1932
+1934 (7th) [c],It Happened One Night,"Columbia (Frank Capra & Harry Cohn, producer)",True,it-happened-one-night-1934
+1934 (7th) [c],The Barretts of Wimpole Street,Metro-Goldwyn-Mayer,False,the-barretts-of-wimpole-street-1934
+1934 (7th) [c],Cleopatra,Paramount,False,cleopatra-1934
+1934 (7th) [c],Flirtation Walk,First National,False,flirtation-walk-1934
+1934 (7th) [c],The Gay Divorcee,RKO Radio,False,the-gay-divorcee-1934
+1934 (7th) [c],Here Comes the Navy,Warner Bros.,False,here-comes-the-navy-1934
+1934 (7th) [c],The House of Rothschild,20th Century,False,the-house-of-rothschild-1934
+1934 (7th) [c],Imitation of Life,Universal,False,imitation-of-life-1934
+1934 (7th) [c],One Night of Love,Columbia,False,one-night-of-love-1934
+1934 (7th) [c],The Thin Man,Metro-Goldwyn-Mayer,False,the-thin-man-1934
+1934 (7th) [c],Viva Villa!,Metro-Goldwyn-Mayer,False,viva-villa-1934
+1934 (7th) [c],The White Parade,Jesse L. Lasky (production company),False,the-white-parade-1934
+1935 (8th) [d],Mutiny on the Bounty,"Metro-Goldwyn-Mayer (Frank Lloyd & Irving Thalberg, producers)",True,mutiny-on-the-bounty-1935
+1935 (8th) [d],Alice Adams,RKO Radio,False,alice-adams-1935
+1935 (8th) [d],Broadway Melody of 1936,Metro-Goldwyn-Mayer,False,broadway-melody-of-1936-1935
+1935 (8th) [d],Captain Blood,Cosmopolitan,False,captain-blood-1935
+1935 (8th) [d],David Copperfield,Metro-Goldwyn-Mayer,False,david-copperfield-1935
+1935 (8th) [d],The Informer,RKO Radio,False,the-informer-1935
+1935 (8th) [d],The Lives of a Bengal Lancer,Paramount,False,the-lives-of-a-bengal-lancer-1935
+1935 (8th) [d],A Midsummer Night's Dream,Warner Bros.,False,a-midsummer-nights-dream-1935
+1935 (8th) [d],Les Misérables,20th Century,False,les-miserables-1935
+1935 (8th) [d],Naughty Marietta,Metro-Goldwyn-Mayer,False,naughty-marietta-1935
+1935 (8th) [d],Ruggles of Red Gap,Paramount,False,ruggles-of-red-gap-1935
+1935 (8th) [d],Top Hat,RKO Radio,False,top-hat-1935
+1936 (9th),The Great Ziegfeld,"Metro-Goldwyn-Mayer (Hunt Stromberg, producer)",True,the-great-ziegfeld-1936
+1936 (9th),Anthony Adverse,Warner Bros.,False,anthony-adverse-1936
+1936 (9th),Dodsworth,"Samuel Goldwyn Productions (Samuel Goldwyn, producer)",False,dodsworth-1936
+1936 (9th),Libeled Lady,Metro-Goldwyn-Mayer,False,libeled-lady-1936
+1936 (9th),Mr. Deeds Goes to Town,Columbia,False,mr-deeds-goes-to-town-1936
+1936 (9th),Romeo and Juliet,Metro-Goldwyn-Mayer,False,romeo-and-juliet-1936
+1936 (9th),San Francisco,Metro-Goldwyn-Mayer,False,san-francisco-1936
+1936 (9th),The Story of Louis Pasteur,Cosmopolitan,False,the-story-of-louis-pasteur-1936
+1936 (9th),A Tale of Two Cities,Metro-Goldwyn-Mayer,False,a-tale-of-two-cities-1936
+1936 (9th),Three Smart Girls,Universal,False,three-smart-girls-1936
+1937 (10th),The Life of Emile Zola,"Warner Bros. (Henry Blanke, producer)",True,the-life-of-emile-zola-1937
+1937 (10th),The Awful Truth,Columbia,False,the-awful-truth-1937
+1937 (10th),Captains Courageous,Metro-Goldwyn-Mayer,False,captains-courageous-1937
+1937 (10th),Dead End,"Samuel Goldwyn Productions (Samuel Goldwyn, producer)",False,dead-end-1937
+1937 (10th),The Good Earth,Metro-Goldwyn-Mayer,False,the-good-earth-1937
+1937 (10th),In Old Chicago,20th Century-Fox,False,in-old-chicago-1937
+1937 (10th),Lost Horizon,Columbia,False,lost-horizon-1937
+1937 (10th),One Hundred Men and a Girl,Universal,False,one-hundred-men-and-a-girl-1937
+1937 (10th),Stage Door,RKO Radio,False,stage-door-1937
+1937 (10th),A Star Is Born,Selznick International Pictures,False,a-star-is-born-1937
+1938 (11th),You Can't Take It with You,"Columbia (Frank Capra, producer)",True,you-cant-take-it-with-you-1938
+1938 (11th),The Adventures of Robin Hood,Warner Bros.-First National,False,the-adventures-of-robin-hood-1938
+1938 (11th),Alexander's Ragtime Band,20th Century-Fox,False,alexanders-ragtime-band-1938
+1938 (11th),Boys Town,Metro-Goldwyn-Mayer,False,boys-town-1938
+1938 (11th),The Citadel,Metro-Goldwyn-Mayer,False,the-citadel-1938
+1938 (11th),Four Daughters,Warner Bros.-First National,False,four-daughters-1938
+1938 (11th),Grand Illusion,Réalisation d'art Cinématographique,False,grand-illusion-1938
+1938 (11th),Jezebel,Warner Bros.,False,jezebel-1938
+1938 (11th),Pygmalion,Metro-Goldwyn-Mayer,False,pygmalion-1938
+1938 (11th),Test Pilot,Metro-Goldwyn-Mayer,False,test-pilot-1938
+1939 (12th),Gone with the Wind,"Selznick International Pictures (David O. Selznick, producer)",True,gone-with-the-wind-1939
+1939 (12th),Dark Victory,Warner Bros.-First National,False,dark-victory-1939
+1939 (12th),"Goodbye, Mr. Chips",Metro-Goldwyn-Mayer,False,goodbye-mr-chips-1939
+1939 (12th),Love Affair,RKO Radio,False,love-affair-1939
+1939 (12th),Mr. Smith Goes to Washington,Columbia,False,mr-smith-goes-to-washington-1939
+1939 (12th),Ninotchka,Metro-Goldwyn-Mayer,False,ninotchka-1939
+1939 (12th),Of Mice and Men,Hal Roach (production company),False,of-mice-and-men-1939
+1939 (12th),Stagecoach,Walter Wanger (production company),False,stagecoach-1939
+1939 (12th),The Wizard of Oz,Metro-Goldwyn-Mayer,False,the-wizard-of-oz-1939
+1939 (12th),Wuthering Heights,Samuel Goldwyn Productions,False,wuthering-heights-1939
+1940 (13th),Rebecca,"Selznick International Pictures (David O. Selznick, producer)",True,rebecca-1940
+1940 (13th),"All This, and Heaven Too",Warner Bros.,False,all-this-and-heaven-too-1940
+1940 (13th),Foreign Correspondent,Walter Wanger (production company),False,foreign-correspondent-1940
+1940 (13th),The Grapes of Wrath,20th Century-Fox,False,the-grapes-of-wrath-1940
+1940 (13th),The Great Dictator,Charles Chaplin Productions,False,the-great-dictator-1940
+1940 (13th),Kitty Foyle,RKO Radio,False,kitty-foyle-1940
+1940 (13th),The Letter,Warner Bros.,False,the-letter-1940
+1940 (13th),The Long Voyage Home,Argosy-Wanger,False,the-long-voyage-home-1940
+1940 (13th),Our Town,Sol Lesser (production company),False,our-town-1940
+1940 (13th),The Philadelphia Story,Metro-Goldwyn-Mayer,False,the-philadelphia-story-1940
+1941 (14th),How Green Was My Valley,"20th Century-Fox (Darryl F. Zanuck, producer)",True,how-green-was-my-valley-1941
+1941 (14th),Blossoms in the Dust,Metro-Goldwyn-Mayer,False,blossoms-in-the-dust-1941
+1941 (14th),Citizen Kane,Mercury,False,citizen-kane-1941
+1941 (14th),Here Comes Mr. Jordan,Columbia,False,here-comes-mr-jordan-1941
+1941 (14th),Hold Back the Dawn,Paramount,False,hold-back-the-dawn-1941
+1941 (14th),The Little Foxes,"Samuel Goldwyn Productions (Samuel Goldwyn, producer)",False,the-little-foxes-1941
+1941 (14th),The Maltese Falcon,Warner Bros.,False,the-maltese-falcon-1941
+1941 (14th),One Foot in Heaven,Warner Bros.,False,one-foot-in-heaven-1941
+1941 (14th),Sergeant York,Warner Bros.,False,sergeant-york-1941
+1941 (14th),Suspicion,RKO Radio,False,suspicion-1941
+1942 (15th),Mrs. Miniver,"Metro-Goldwyn-Mayer (Sidney Franklin, producer)",True,mrs-miniver-1942
+1942 (15th),49th Parallel,Ortus,False,49th-parallel-1942
+1942 (15th),Kings Row,Warner Bros.,False,kings-row-1942
+1942 (15th),The Magnificent Ambersons,Mercury,False,the-magnificent-ambersons-1942
+1942 (15th),The Pied Piper,20th Century-Fox,False,the-pied-piper-1942
+1942 (15th),The Pride of the Yankees,"Samuel Goldwyn Productions (Samuel Goldwyn, producer)",False,the-pride-of-the-yankees-1942
+1942 (15th),Random Harvest,Metro-Goldwyn-Mayer,False,random-harvest-1942
+1942 (15th),The Talk of the Town,Columbia,False,the-talk-of-the-town-1942
+1942 (15th),Wake Island,Paramount,False,wake-island-1942
+1942 (15th),Yankee Doodle Dandy,Warner Bros.,False,yankee-doodle-dandy-1942
+1943 (16th),Casablanca,"Warner Bros. (Hal B. Wallis, producer)",True,casablanca-1943
+1943 (16th),For Whom the Bell Tolls,Paramount,False,for-whom-the-bell-tolls-1943
+1943 (16th),Heaven Can Wait,20th Century-Fox,False,heaven-can-wait-1943
+1943 (16th),The Human Comedy,Metro-Goldwyn-Mayer,False,the-human-comedy-1943
+1943 (16th),In Which We Serve,Two Cities Films,False,in-which-we-serve-1943
+1943 (16th),Madame Curie,Metro-Goldwyn-Mayer,False,madame-curie-1943
+1943 (16th),The More the Merrier,Columbia,False,the-more-the-merrier-1943
+1943 (16th),The Ox-Bow Incident,20th Century-Fox,False,the-ox-bow-incident-1943
+1943 (16th),The Song of Bernadette,20th Century-Fox,False,the-song-of-bernadette-1943
+1943 (16th),Watch on the Rhine,Warner Bros.,False,watch-on-the-rhine-1943
+1944 (17th),Going My Way,"Paramount (Leo McCarey, producer)",True,going-my-way-1944
+1944 (17th),Double Indemnity,Paramount,False,double-indemnity-1944
+1944 (17th),Gaslight,Metro-Goldwyn-Mayer,False,gaslight-1944
+1944 (17th),Since You Went Away,"Selznick International Pictures (David O. Selznick, producer)",False,since-you-went-away-1944
+1944 (17th),Wilson,20th Century-Fox,False,wilson-1944
+1945 (18th),The Lost Weekend,"Paramount (Charles Brackett, producer)",True,the-lost-weekend-1945
+1945 (18th),Anchors Aweigh,Metro-Goldwyn-Mayer,False,anchors-aweigh-1945
+1945 (18th),The Bells of St. Mary's,Rainbow Productions,False,the-bells-of-st-marys-1945
+1945 (18th),Mildred Pierce,Warner Bros.,False,mildred-pierce-1945
+1945 (18th),Spellbound,"Selznick International Pictures (David O. Selznick, producer)",False,spellbound-1945
+1946 (19th),The Best Years of Our Lives,"Samuel Goldwyn Productions (Samuel Goldwyn, producer)",True,the-best-years-of-our-lives-1946
+1946 (19th),Henry V,Two Cities Films,False,henry-v-1946
+1946 (19th),It's a Wonderful Life,Liberty Films,False,its-a-wonderful-life-1946
+1946 (19th),The Razor's Edge,20th Century-Fox,False,the-razors-edge-1946
+1946 (19th),The Yearling,Metro-Goldwyn-Mayer,False,the-yearling-1946
+1947 (20th),Gentleman's Agreement,"20th Century-Fox (Darryl F. Zanuck, producer)",True,gentlemans-agreement-1947
+1947 (20th),The Bishop's Wife,"Samuel Goldwyn Productions (Samuel Goldwyn, producer)",False,the-bishops-wife-1947
+1947 (20th),Crossfire,RKO Radio,False,crossfire-1947
+1947 (20th),Great Expectations,J. Arthur Rank-Cineguild,False,great-expectations-1947
+1947 (20th),Miracle on 34th Street,20th Century-Fox,False,miracle-on-34th-street-1947
+1948 (21st),Hamlet,"J. Arthur Rank-Two Cities Films (Laurence Olivier, producer)",True,hamlet-1948
+1948 (21st),Johnny Belinda,Warner Bros.,False,johnny-belinda-1948
+1948 (21st),The Red Shoes,J. Arthur Rank-Archers,False,the-red-shoes-1948
+1948 (21st),The Snake Pit,20th Century-Fox,False,the-snake-pit-1948
+1948 (21st),The Treasure of the Sierra Madre,Warner Bros.,False,the-treasure-of-the-sierra-madre-1948
+1949 (22nd),All the King's Men,"Columbia (Robert Rossen, producer)",True,all-the-kings-men-1949
+1949 (22nd),Battleground,Metro-Goldwyn-Mayer,False,battleground-1949
+1949 (22nd),The Heiress,Paramount,False,the-heiress-1949
+1949 (22nd),A Letter to Three Wives,20th Century-Fox,False,a-letter-to-three-wives-1949
+1949 (22nd),Twelve O'Clock High,20th Century-Fox,False,twelve-oclock-high-1949
+1950 (23rd),All About Eve,"20th Century-Fox (Darryl F. Zanuck, producer)",True,all-about-eve-1950
+1950 (23rd),Born Yesterday,Columbia,False,born-yesterday-1950
+1950 (23rd),Father of the Bride,Metro-Goldwyn-Mayer,False,father-of-the-bride-1950
+1950 (23rd),King Solomon's Mines,Metro-Goldwyn-Mayer,False,king-solomons-mines-1950
+1950 (23rd),Sunset Boulevard,Paramount,False,sunset-boulevard-1950
+1951 (24th),An American in Paris,Arthur Freed,True,an-american-in-paris-1951
+1951 (24th),Decision Before Dawn,Anatole Litvak and Frank McCarthy,False,decision-before-dawn-1951
+1951 (24th),A Place in the Sun,George Stevens,False,a-place-in-the-sun-1951
+1951 (24th),Quo Vadis,Sam Zimbalist,False,quo-vadis-1951
+1951 (24th),A Streetcar Named Desire,Charles K. Feldman,False,a-streetcar-named-desire-1951
+1952 (25th),The Greatest Show on Earth,Cecil B. DeMille,True,the-greatest-show-on-earth-1952
+1952 (25th),High Noon,Stanley Kramer,False,high-noon-1952
+1952 (25th),Ivanhoe,Pandro S. Berman,False,ivanhoe-1952
+1952 (25th),Moulin Rouge,John and James Woolf,False,moulin-rouge-1952
+1952 (25th),The Quiet Man,John Ford and Merian C. Cooper,False,the-quiet-man-1952
+1953 (26th),From Here to Eternity,Buddy Adler,True,from-here-to-eternity-1953
+1953 (26th),Julius Caesar,John Houseman,False,julius-caesar-1953
+1953 (26th),The Robe,Frank Ross,False,the-robe-1953
+1953 (26th),Roman Holiday,William Wyler,False,roman-holiday-1953
+1953 (26th),Shane,George Stevens,False,shane-1953
+1954 (27th),On the Waterfront,Sam Spiegel,True,on-the-waterfront-1954
+1954 (27th),The Caine Mutiny,Stanley Kramer,False,the-caine-mutiny-1954
+1954 (27th),The Country Girl,William Perlberg,False,the-country-girl-1954
+1954 (27th),Seven Brides for Seven Brothers,Jack Cummings,False,seven-brides-for-seven-brothers-1954
+1954 (27th),Three Coins in the Fountain,Sol C. Siegel,False,three-coins-in-the-fountain-1954
+1955 (28th),Marty,Harold Hecht,True,marty-1955
+1955 (28th),Love Is a Many-Splendored Thing,Buddy Adler,False,love-is-a-many-splendored-thing-1955
+1955 (28th),Mister Roberts,Leland Hayward,False,mister-roberts-1955
+1955 (28th),Picnic,Fred Kohlmar,False,picnic-1955
+1955 (28th),The Rose Tattoo,Hal B. Wallis,False,the-rose-tattoo-1955
+1956 (29th),Around the World in 80 Days,Michael Todd,True,around-the-world-in-80-days-1956
+1956 (29th),Friendly Persuasion,William Wyler,False,friendly-persuasion-1956
+1956 (29th),Giant,George Stevens and Henry Ginsberg,False,giant-1956
+1956 (29th),The King and I,Charles Brackett,False,the-king-and-i-1956
+1956 (29th),The Ten Commandments,Cecil B. DeMille,False,the-ten-commandments-1956
+1957 (30th),The Bridge on the River Kwai,Sam Spiegel,True,the-bridge-on-the-river-kwai-1957
+1957 (30th),12 Angry Men,Henry Fonda and Reginald Rose,False,12-angry-men-1957
+1957 (30th),Peyton Place,Jerry Wald,False,peyton-place-1957
+1957 (30th),Sayonara,William Goetz,False,sayonara-1957
+1957 (30th),Witness for the Prosecution,Arthur Hornblow Jr.,False,witness-for-the-prosecution-1957
+1958 (31st),Gigi,Arthur Freed,True,gigi-1958
+1958 (31st),Auntie Mame,Jack L. Warner,False,auntie-mame-1958
+1958 (31st),Cat on a Hot Tin Roof,Lawrence Weingarten,False,cat-on-a-hot-tin-roof-1958
+1958 (31st),The Defiant Ones,Stanley Kramer,False,the-defiant-ones-1958
+1958 (31st),Separate Tables,Harold Hecht,False,separate-tables-1958
+1959 (32nd),Ben-Hur,Sam Zimbalist,True,ben-hur-1959
+1959 (32nd),Anatomy of a Murder,Otto Preminger,False,anatomy-of-a-murder-1959
+1959 (32nd),The Diary of Anne Frank,George Stevens,False,the-diary-of-anne-frank-1959
+1959 (32nd),The Nun's Story,Henry Blanke,False,the-nuns-story-1959
+1959 (32nd),Room at the Top,John and James Woolf,False,room-at-the-top-1959
+1960 (33rd),The Apartment,Billy Wilder,True,the-apartment-1960
+1960 (33rd),The Alamo,John Wayne,False,the-alamo-1960
+1960 (33rd),Elmer Gantry,Bernard Smith,False,elmer-gantry-1960
+1960 (33rd),Sons and Lovers,Jerry Wald,False,sons-and-lovers-1960
+1960 (33rd),The Sundowners,Fred Zinnemann,False,the-sundowners-1960
+1961 (34th),West Side Story,Robert Wise,True,west-side-story-1961
+1961 (34th),Fanny,Joshua Logan,False,fanny-1961
+1961 (34th),The Guns of Navarone,Carl Foreman,False,the-guns-of-navarone-1961
+1961 (34th),The Hustler,Robert Rossen,False,the-hustler-1961
+1961 (34th),Judgment at Nuremberg,Stanley Kramer,False,judgment-at-nuremberg-1961
+1962 (35th),Lawrence of Arabia,Sam Spiegel,True,lawrence-of-arabia-1962
+1962 (35th),The Longest Day,Darryl F. Zanuck,False,the-longest-day-1962
+1962 (35th),The Music Man,Morton DaCosta,False,the-music-man-1962
+1962 (35th),Mutiny on the Bounty,Aaron Rosenberg,False,mutiny-on-the-bounty-1962
+1962 (35th),To Kill a Mockingbird,Alan J. Pakula,False,to-kill-a-mockingbird-1962
+1963 (36th),Tom Jones,Tony Richardson,True,tom-jones-1963
+1963 (36th),America America,Elia Kazan,False,america-america-1963
+1963 (36th),Cleopatra,Walter Wanger,False,cleopatra-1963
+1963 (36th),How the West Was Won,Bernard Smith,False,how-the-west-was-won-1963
+1963 (36th),Lilies of the Field,Ralph Nelson,False,lilies-of-the-field-1963
+1964 (37th),My Fair Lady,Jack L. Warner,True,my-fair-lady-1964
+1964 (37th),Becket,Hal B. Wallis,False,becket-1964
+1964 (37th),Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,False,dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964
+1964 (37th),Mary Poppins,Walt Disney and Bill Walsh,False,mary-poppins-1964
+1964 (37th),Zorba the Greek,Michael Cacoyannis,False,zorba-the-greek-1964
+1965 (38th),The Sound of Music,Robert Wise,True,the-sound-of-music-1965
+1965 (38th),Darling,Joseph Janni,False,darling-1965
+1965 (38th),Doctor Zhivago,Carlo Ponti,False,doctor-zhivago-1965
+1965 (38th),Ship of Fools,Stanley Kramer,False,ship-of-fools-1965
+1965 (38th),A Thousand Clowns,Fred Coe,False,a-thousand-clowns-1965
+1966 (39th),A Man for All Seasons,Fred Zinnemann,True,a-man-for-all-seasons-1966
+1966 (39th),Alfie,Lewis Gilbert,False,alfie-1966
+1966 (39th),"The Russians Are Coming, the Russians Are Coming",Norman Jewison,False,the-russians-are-coming-the-russians-are-coming-1966
+1966 (39th),The Sand Pebbles,Robert Wise,False,the-sand-pebbles-1966
+1966 (39th),Who's Afraid of Virginia Woolf?,Ernest Lehman,False,whos-afraid-of-virginia-woolf-1966
+1967 (40th),In the Heat of the Night,Walter Mirisch,True,in-the-heat-of-the-night-1967
+1967 (40th),Bonnie and Clyde,Warren Beatty,False,bonnie-and-clyde-1967
+1967 (40th),Doctor Dolittle,Arthur P. Jacobs,False,doctor-dolittle-1967
+1967 (40th),The Graduate,Lawrence Turman,False,the-graduate-1967
+1967 (40th),Guess Who's Coming to Dinner,Stanley Kramer,False,guess-whos-coming-to-dinner-1967
+1968 (41st),Oliver!,John Woolf,True,oliver-1968
+1968 (41st),Funny Girl,Ray Stark,False,funny-girl-1968
+1968 (41st),The Lion in Winter,Martin Poll,False,the-lion-in-winter-1968
+1968 (41st),"Rachel, Rachel",Paul Newman,False,rachel-rachel-1968
+1968 (41st),Romeo and Juliet,Anthony Havelock-Allan and John Brabourne,False,romeo-and-juliet-1968
+1969 (42nd),Midnight Cowboy,Jerome Hellman,True,midnight-cowboy-1969
+1969 (42nd),Anne of the Thousand Days,Hal B. Wallis,False,anne-of-the-thousand-days-1969
+1969 (42nd),Butch Cassidy and the Sundance Kid,John Foreman,False,butch-cassidy-and-the-sundance-kid-1969
+1969 (42nd),"Hello, Dolly!",Ernest Lehman,False,hello-dolly-1969
+1969 (42nd),Z,Jacques Perrin and Ahmed Rachedi,False,z-1969
+1970 (43rd),Patton,Frank McCarthy,True,patton-1970
+1970 (43rd),Airport,Ross Hunter,False,airport-1970
+1970 (43rd),Five Easy Pieces,Bob Rafelson and Richard Wechsler,False,five-easy-pieces-1970
+1970 (43rd),Love Story,Howard G. Minsky,False,love-story-1970
+1970 (43rd),M*A*S*H,Ingo Preminger,False,mash-1970
+1971 (44th),The French Connection,Philip D'Antoni,True,the-french-connection-1971
+1971 (44th),A Clockwork Orange,Stanley Kubrick,False,a-clockwork-orange-1971
+1971 (44th),Fiddler on the Roof,Norman Jewison,False,fiddler-on-the-roof-1971
+1971 (44th),The Last Picture Show,Stephen J. Friedman,False,the-last-picture-show-1971
+1971 (44th),Nicholas and Alexandra,Sam Spiegel,False,nicholas-and-alexandra-1971
+1972 (45th),The Godfather,Albert S. Ruddy,True,the-godfather-1972
+1972 (45th),Cabaret,Cy Feuer,False,cabaret-1972
+1972 (45th),Deliverance,John Boorman,False,deliverance-1972
+1972 (45th),The Emigrants,Bengt Forslund,False,the-emigrants-1972
+1972 (45th),Sounder,Robert B. Radnitz,False,sounder-1972
+1973 (46th),The Sting,"Tony Bill, Michael Phillips, and Julia Phillips",True,the-sting-1973
+1973 (46th),American Graffiti,Francis Ford Coppola and Gary Kurtz,False,american-graffiti-1973
+1973 (46th),Cries and Whispers,Ingmar Bergman,False,cries-and-whispers-1973
+1973 (46th),The Exorcist,William Peter Blatty,False,the-exorcist-1973
+1973 (46th),A Touch of Class,Melvin Frank,False,a-touch-of-class-1973
+1974 (47th),The Godfather Part II,"Francis Ford Coppola, Gray Frederickson, and Fred Roos",True,the-godfather-part-ii-1974
+1974 (47th),Chinatown,Robert Evans,False,chinatown-1974
+1974 (47th),The Conversation,Francis Ford Coppola,False,the-conversation-1974
+1974 (47th),Lenny,Marvin Worth,False,lenny-1974
+1974 (47th),The Towering Inferno,Irwin Allen,False,the-towering-inferno-1974
+1975 (48th),One Flew Over the Cuckoo's Nest,Michael Douglas and Saul Zaentz,True,one-flew-over-the-cuckoos-nest-1975
+1975 (48th),Barry Lyndon,Stanley Kubrick,False,barry-lyndon-1975
+1975 (48th),Dog Day Afternoon,Martin Bregman and Martin Elfand,False,dog-day-afternoon-1975
+1975 (48th),Jaws,Richard D. Zanuck and David Brown,False,jaws-1975
+1975 (48th),Nashville,Robert Altman,False,nashville-1975
+1976 (49th),Rocky,Irwin Winkler and Robert Chartoff,True,rocky-1976
+1976 (49th),All the President's Men,Walter Coblenz,False,all-the-presidents-men-1976
+1976 (49th),Bound for Glory,Robert F. Blumofe and Harold Leventhal,False,bound-for-glory-1976
+1976 (49th),Network,Howard Gottfried,False,network-1976
+1976 (49th),Taxi Driver,Michael Phillips and Julia Phillips,False,taxi-driver-1976
+1977 (50th),Annie Hall,Charles H. Joffe,True,annie-hall-1977
+1977 (50th),The Goodbye Girl,Ray Stark,False,the-goodbye-girl-1977
+1977 (50th),Julia,Richard Roth,False,julia-1977
+1977 (50th),Star Wars,Gary Kurtz,False,star-wars-1977
+1977 (50th),The Turning Point,Herbert Ross and Arthur Laurents,False,the-turning-point-1977
+1978 (51st),The Deer Hunter,"Barry Spikings, Michael Deeley, Michael Cimino, and John Peverall",True,the-deer-hunter-1978
+1978 (51st),Coming Home,Jerome Hellman,False,coming-home-1978
+1978 (51st),Heaven Can Wait,Warren Beatty,False,heaven-can-wait-1978
+1978 (51st),Midnight Express,Alan Marshall and David Puttnam,False,midnight-express-1978
+1978 (51st),An Unmarried Woman,Paul Mazursky and Anthony Ray,False,an-unmarried-woman-1978
+1979 (52nd),Kramer vs. Kramer,Stanley R. Jaffe,True,kramer-vs-kramer-1979
+1979 (52nd),All That Jazz,Robert Alan Aurthur,False,all-that-jazz-1979
+1979 (52nd),Apocalypse Now,"Francis Ford Coppola, Fred Roos, Gray Frederickson, and Tom Sternberg",False,apocalypse-now-1979
+1979 (52nd),Breaking Away,Peter Yates,False,breaking-away-1979
+1979 (52nd),Norma Rae,Tamara Asseyev and Alex Rose,False,norma-rae-1979
+1980 (53rd),Ordinary People,Ronald L. Schwary,True,ordinary-people-1980
+1980 (53rd),Coal Miner's Daughter,Bernard Schwartz,False,coal-miners-daughter-1980
+1980 (53rd),The Elephant Man,Jonathan Sanger,False,the-elephant-man-1980
+1980 (53rd),Raging Bull,Irwin Winkler and Robert Chartoff,False,raging-bull-1980
+1980 (53rd),Tess,Claude Berri and Timothy Burrill,False,tess-1980
+1981 (54th),Chariots of Fire,David Puttnam,True,chariots-of-fire-1981
+1981 (54th),Atlantic City,Denis Héroux,False,atlantic-city-1981
+1981 (54th),On Golden Pond,Bruce Gilbert,False,on-golden-pond-1981
+1981 (54th),Raiders of the Lost Ark,Frank Marshall,False,raiders-of-the-lost-ark-1981
+1981 (54th),Reds,Warren Beatty,False,reds-1981
+1982 (55th),Gandhi,Richard Attenborough,True,gandhi-1982
+1982 (55th),E.T. the Extra-Terrestrial,Steven Spielberg and Kathleen Kennedy,False,et-the-extra-terrestrial-1982
+1982 (55th),Missing,Edward Lewis and Mildred Lewis,False,missing-1982
+1982 (55th),Tootsie,Sydney Pollack and Dick Richards,False,tootsie-1982
+1982 (55th),The Verdict,Richard D. Zanuck and David Brown,False,the-verdict-1982
+1983 (56th),Terms of Endearment,James L. Brooks,True,terms-of-endearment-1983
+1983 (56th),The Big Chill,Michael Shamberg,False,the-big-chill-1983
+1983 (56th),The Dresser,Peter Yates,False,the-dresser-1983
+1983 (56th),The Right Stuff,Irwin Winkler and Robert Chartoff,False,the-right-stuff-1983
+1983 (56th),Tender Mercies,Philip S. Hobel,False,tender-mercies-1983
+1984 (57th),Amadeus,Saul Zaentz,True,amadeus-1984
+1984 (57th),The Killing Fields,David Puttnam,False,the-killing-fields-1984
+1984 (57th),A Passage to India,John Brabourne and Richard Goodwin,False,a-passage-to-india-1984
+1984 (57th),Places in the Heart,Arlene Donovan,False,places-in-the-heart-1984
+1984 (57th),A Soldier's Story,"Norman Jewison, Ronald L. Schwary, and Patrick J. Palmer",False,a-soldiers-story-1984
+1985 (58th),Out of Africa,Sydney Pollack,True,out-of-africa-1985
+1985 (58th),The Color Purple,"Steven Spielberg, Kathleen Kennedy, Frank Marshall, and Quincy Jones",False,the-color-purple-1985
+1985 (58th),Kiss of the Spider Woman,David Weisman,False,kiss-of-the-spider-woman-1985
+1985 (58th),Prizzi's Honor,John Foreman,False,prizzis-honor-1985
+1985 (58th),Witness,Edward S. Feldman,False,witness-1985
+1986 (59th),Platoon,Arnold Kopelson,True,platoon-1986
+1986 (59th),Children of a Lesser God,Burt Sugarman and Patrick J. Palmer,False,children-of-a-lesser-god-1986
+1986 (59th),Hannah and Her Sisters,Robert Greenhut,False,hannah-and-her-sisters-1986
+1986 (59th),The Mission,Fernando Ghia and David Puttnam,False,the-mission-1986
+1986 (59th),A Room with a View,Ismail Merchant,False,a-room-with-a-view-1986
+1987 (60th),The Last Emperor,Jeremy Thomas,True,the-last-emperor-1987
+1987 (60th),Broadcast News,James L. Brooks,False,broadcast-news-1987
+1987 (60th),Fatal Attraction,Stanley R. Jaffe and Sherry Lansing,False,fatal-attraction-1987
+1987 (60th),Hope and Glory,John Boorman,False,hope-and-glory-1987
+1987 (60th),Moonstruck,Patrick J. Palmer and Norman Jewison,False,moonstruck-1987
+1988 (61st),Rain Man,Mark Johnson,True,rain-man-1988
+1988 (61st),The Accidental Tourist,"Lawrence Kasdan, Charles Okun, and Michael Grillo",False,the-accidental-tourist-1988
+1988 (61st),Dangerous Liaisons,Norma Heyman and Hank Moonjean,False,dangerous-liaisons-1988
+1988 (61st),Mississippi Burning,Frederick Zollo and Robert F. Colesberry,False,mississippi-burning-1988
+1988 (61st),Working Girl,Douglas Wick,False,working-girl-1988
+1989 (62nd),Driving Miss Daisy,Richard D. Zanuck and Lili Fini Zanuck,True,driving-miss-daisy-1989
+1989 (62nd),Born on the Fourth of July,A. Kitman Ho and Oliver Stone,False,born-on-the-fourth-of-july-1989
+1989 (62nd),Dead Poets Society,"Steven Haft, Paul Junger Witt, and Tony Thomas",False,dead-poets-society-1989
+1989 (62nd),Field of Dreams,Lawrence Gordon and Charles Gordon,False,field-of-dreams-1989
+1989 (62nd),My Left Foot,Noel Pearson,False,my-left-foot-1989
+1990 (63rd),Dances With Wolves,Jim Wilson and Kevin Costner,True,dances-with-wolves-1990
+1990 (63rd),Awakenings,Walter F. Parkes and Lawrence Lasker,False,awakenings-1990
+1990 (63rd),Ghost,Lisa Weinstein,False,ghost-1990
+1990 (63rd),The Godfather Part III,Francis Ford Coppola,False,the-godfather-part-iii-1990
+1990 (63rd),Goodfellas,Irwin Winkler,False,goodfellas-1990
+1991 (64th),The Silence of the Lambs,"Edward Saxon, Kenneth Utt, and Ron Bozman",True,the-silence-of-the-lambs-1991
+1991 (64th),Beauty and the Beast,Don Hahn,False,beauty-and-the-beast-1991
+1991 (64th),Bugsy,"Mark Johnson, Barry Levinson and Warren Beatty",False,bugsy-1991
+1991 (64th),JFK,A. Kitman Ho and Oliver Stone,False,jfk-1991
+1991 (64th),The Prince of Tides,Barbra Streisand and Andrew Karsch,False,the-prince-of-tides-1991
+1992 (65th),Unforgiven,Clint Eastwood,True,unforgiven-1992
+1992 (65th),The Crying Game,Stephen Woolley,False,the-crying-game-1992
+1992 (65th),A Few Good Men,"David Brown, Rob Reiner, and Andrew Scheinman",False,a-few-good-men-1992
+1992 (65th),Howards End,Ismail Merchant,False,howards-end-1992
+1992 (65th),Scent of a Woman,Martin Brest,False,scent-of-a-woman-1992
+1993 (66th),Schindler's List,"Steven Spielberg, Gerald R. Molen, and Branko Lustig",True,schindlers-list-1993
+1993 (66th),The Fugitive,Arnold Kopelson,False,the-fugitive-1993
+1993 (66th),In the Name of the Father,Jim Sheridan,False,in-the-name-of-the-father-1993
+1993 (66th),The Piano,Jan Chapman,False,the-piano-1993
+1993 (66th),The Remains of the Day,"Mike Nichols, John Calley, and Ismail Merchant",False,the-remains-of-the-day-1993
+1994 (67th),Forrest Gump,"Wendy Finerman, Steve Tisch, and Steve Starkey",True,forrest-gump-1994
+1994 (67th),Four Weddings and a Funeral,Duncan Kenworthy,False,four-weddings-and-a-funeral-1994
+1994 (67th),Pulp Fiction,Lawrence Bender,False,pulp-fiction-1994
+1994 (67th),Quiz Show,"Michael Jacobs, Julian Krainin, Michael Nozik, and Robert Redford",False,quiz-show-1994
+1994 (67th),The Shawshank Redemption,Niki Marvin,False,the-shawshank-redemption-1994
+1995 (68th),Braveheart,"Mel Gibson, Alan Ladd Jr., and Bruce Davey",True,braveheart-1995
+1995 (68th),Apollo 13,Brian Grazer,False,apollo-13-1995
+1995 (68th),Babe,"Bill Miller, George Miller, and Doug Mitchell",False,babe-1995
+1995 (68th),Il Postino: The Postman,"Mario Cecchi Gori, Vittorio Cecchi Gori, and Gaetano Daniele",False,il-postino-the-postman-1995
+1995 (68th),Sense and Sensibility,Lindsay Doran,False,sense-and-sensibility-1995
+1996 (69th),The English Patient,Saul Zaentz,True,the-english-patient-1996
+1996 (69th),Fargo,Ethan Coen,False,fargo-1996
+1996 (69th),Jerry Maguire,"James L. Brooks, Laurence Mark, Richard Sakai, and Cameron Crowe",False,jerry-maguire-1996
+1996 (69th),Secrets & Lies,Simon Channing Williams,False,secrets-lies-1996
+1996 (69th),Shine,Jane Scott,False,shine-1996
+1997 (70th),Titanic,James Cameron and Jon Landau,True,titanic-1997
+1997 (70th),As Good as It Gets,"James L. Brooks, Bridget Johnson, and Kristi Zea",False,as-good-as-it-gets-1997
+1997 (70th),The Full Monty,Uberto Pasolini,False,the-full-monty-1997
+1997 (70th),Good Will Hunting,Lawrence Bender,False,good-will-hunting-1997
+1997 (70th),L.A. Confidential,"Curtis Hanson, Arnon Milchan, and Michael Nathanson",False,la-confidential-1997
+1998 (71st),Shakespeare in Love,"David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick, and Marc Norman",True,shakespeare-in-love-1998
+1998 (71st),Elizabeth,"Alison Owen, Eric Fellner and Tim Bevan",False,elizabeth-1998
+1998 (71st),Life Is Beautiful,Elda Ferri and Gianluigi Braschi,False,life-is-beautiful-1998
+1998 (71st),Saving Private Ryan,"Steven Spielberg, Ian Bryce, Mark Gordon, and Gary Levinsohn",False,saving-private-ryan-1998
+1998 (71st),The Thin Red Line,"Robert Michael Geisler, John Roberdeau, and Grant Hill",False,the-thin-red-line-1998
+1999 (72nd),American Beauty,Bruce Cohen and Dan Jinks,True,american-beauty-1999
+1999 (72nd),The Cider House Rules,Richard N. Gladstein,False,the-cider-house-rules-1999
+1999 (72nd),The Green Mile,Frank Darabont and David Valdes,False,the-green-mile-1999
+1999 (72nd),The Insider,Pieter Jan Brugge and Michael Mann,False,the-insider-1999
+1999 (72nd),The Sixth Sense,"Frank Marshall, Kathleen Kennedy, and Barry Mendel",False,the-sixth-sense-1999
+2000 (73rd),Gladiator,"Douglas Wick, David Franzoni, and Branko Lustig",True,gladiator-2000
+2000 (73rd),Chocolat,"David Brown, Kit Golden, and Leslie Holleran",False,chocolat-2000
+2000 (73rd),"Crouching Tiger, Hidden Dragon","William Kong, Hsu Li-kong, and Ang Lee",False,crouching-tiger-hidden-dragon-2000
+2000 (73rd),Erin Brockovich,"Danny DeVito, Michael Shamberg, and Stacey Sher",False,erin-brockovich-2000
+2000 (73rd),Traffic,"Edward Zwick, Marshall Herskovitz, and Laura Bickford",False,traffic-2000
+2001 (74th),A Beautiful Mind,Brian Grazer and Ron Howard,True,a-beautiful-mind-2001
+2001 (74th),Gosford Park,"Robert Altman, Bob Balaban, and David Levy",False,gosford-park-2001
+2001 (74th),In the Bedroom,"Graham Leader, Ross Katz, and Todd Field",False,in-the-bedroom-2001
+2001 (74th),The Lord of the Rings: The Fellowship of the Ring,"Peter Jackson, Fran Walsh, and Barrie M. Osborne",False,the-lord-of-the-rings-the-fellowship-of-the-ring-2001
+2001 (74th),Moulin Rouge!,"Martin Brown, Baz Luhrmann, and Fred Baron",False,moulin-rouge-2001
+2002 (75th),Chicago,Martin Richards,True,chicago-2002
+2002 (75th),Gangs of New York,Alberto Grimaldi and Harvey Weinstein,False,gangs-of-new-york-2002
+2002 (75th),The Hours,Scott Rudin and Robert Fox,False,the-hours-2002
+2002 (75th),The Lord of the Rings: The Two Towers,"Barrie M. Osborne, Fran Walsh, and Peter Jackson",False,the-lord-of-the-rings-the-two-towers-2002
+2002 (75th),The Pianist,"Roman Polanski, Robert Benmussa, and Alain Sarde",False,the-pianist-2002
+2003 (76th),The Lord of the Rings: The Return of the King,"Barrie M. Osborne, Peter Jackson, and Fran Walsh",True,the-lord-of-the-rings-the-return-of-the-king-2003
+2003 (76th),Lost in Translation,Ross Katz and Sofia Coppola,False,lost-in-translation-2003
+2003 (76th),Master and Commander: The Far Side of the World,"Samuel Goldwyn Jr., Peter Weir, and Duncan Henderson",False,master-and-commander-the-far-side-of-the-world-2003
+2003 (76th),Mystic River,"Robert Lorenz, Judie G. Hoyt, and Clint Eastwood",False,mystic-river-2003
+2003 (76th),Seabiscuit,"Kathleen Kennedy, Frank Marshall, and Gary Ross",False,seabiscuit-2003
+2004 (77th),Million Dollar Baby,"Clint Eastwood, Albert S. Ruddy, and Tom Rosenberg",True,million-dollar-baby-2004
+2004 (77th),The Aviator,Michael Mann and Graham King,False,the-aviator-2004
+2004 (77th),Finding Neverland,Richard N. Gladstein and Nellie Bellflower,False,finding-neverland-2004
+2004 (77th),Ray,"Taylor Hackford, Stuart Benjamin, and Howard Baldwin",False,ray-2004
+2004 (77th),Sideways,Michael London,False,sideways-2004
+2005 (78th),Crash,Paul Haggis and Cathy Schulman,True,crash-2005
+2005 (78th),Brokeback Mountain,Diana Ossana and James Schamus,False,brokeback-mountain-2005
+2005 (78th),Capote,"Caroline Baron, William Vince, and Michael Ohoven",False,capote-2005
+2005 (78th),"Good Night, and Good Luck",Grant Heslov,False,good-night-and-good-luck-2005
+2005 (78th),Munich,"Steven Spielberg, Kathleen Kennedy, and Barry Mendel",False,munich-2005
+2006 (79th),The Departed,Graham King,True,the-departed-2006
+2006 (79th),Babel,"Alejandro González Iñárritu, Steve Golin, and Jon Kilik",False,babel-2006
+2006 (79th),Letters from Iwo Jima,"Clint Eastwood, Steven Spielberg, and Robert Lorenz",False,letters-from-iwo-jima-2006
+2006 (79th),Little Miss Sunshine,"David T. Friendly, Peter Saraf, and Marc Turtletaub",False,little-miss-sunshine-2006
+2006 (79th),The Queen,"Andy Harries, Christine Langan, and Tracey Seaward",False,the-queen-2006
+2007 (80th),No Country for Old Men,"Scott Rudin, Joel Coen, and Ethan Coen",True,no-country-for-old-men-2007
+2007 (80th),Atonement,"Tim Bevan, Eric Fellner, and Paul Webster",False,atonement-2007
+2007 (80th),Juno,"Lianne Halfon, Mason Novick, and Russell Smith",False,juno-2007
+2007 (80th),Michael Clayton,"Jennifer Fox, Kerry Orent, and Sydney Pollack",False,michael-clayton-2007
+2007 (80th),There Will Be Blood,"Paul Thomas Anderson, Daniel Lupi, and JoAnne Sellar",False,there-will-be-blood-2007
+2008 (81st),Slumdog Millionaire,Christian Colson,True,slumdog-millionaire-2008
+2008 (81st),The Curious Case of Benjamin Button,"Kathleen Kennedy, Frank Marshall, and Ceán Chaffin",False,the-curious-case-of-benjamin-button-2008
+2008 (81st),Frost/Nixon,"Ron Howard, Brian Grazer, and Eric Fellner",False,frost-nixon-2008
+2008 (81st),Milk,Bruce Cohen and Dan Jinks,False,milk-2008
+2008 (81st),The Reader,"Anthony Minghella, Sydney Pollack, Donna Gigliotti, and Redmond Morris",False,the-reader-2008
+2009 (82nd),The Hurt Locker,"Kathryn Bigelow, Mark Boal, Nicolas Chartier, and Greg Shapiro",True,the-hurt-locker-2009
+2009 (82nd),Avatar,James Cameron and Jon Landau,False,avatar-2009
+2009 (82nd),The Blind Side,"Gil Netter, Andrew Kosove, and Broderick Johnson",False,the-blind-side-2009
+2009 (82nd),District 9,Peter Jackson and Carolynne Cunningham,False,district-9-2009
+2009 (82nd),An Education,Finola Dwyer and Amanda Posey,False,an-education-2009
+2009 (82nd),Inglourious Basterds,Lawrence Bender,False,inglourious-basterds-2009
+2009 (82nd),"Precious: Based on the Novel ""Push"" by Sapphire","Lee Daniels, Sarah Siegel-Magness, and Gary Magness",False,precious-based-on-the-novel-push-by-sapphire-2009
+2009 (82nd),A Serious Man,Joel Coen and Ethan Coen,False,a-serious-man-2009
+2009 (82nd),Up,Jonas Rivera,False,up-2009
+2009 (82nd),Up in the Air,"Daniel Dubiecki, Ivan Reitman, and Jason Reitman",False,up-in-the-air-2009
+2010 (83rd),The King's Speech,"Iain Canning, Emile Sherman, and Gareth Unwin",True,the-kings-speech-2010
+2010 (83rd),Black Swan,"Scott Franklin, Mike Medavoy, and Brian Oliver",False,black-swan-2010
+2010 (83rd),The Fighter,"David Hoberman, Todd Lieberman, and Mark Wahlberg",False,the-fighter-2010
+2010 (83rd),Inception,Christopher Nolan and Emma Thomas,False,inception-2010
+2010 (83rd),The Kids Are All Right,"Gary Gilbert, Jeff Levy-Hinte, and Celine Rattray",False,the-kids-are-all-right-2010
+2010 (83rd),127 Hours,"Danny Boyle, John Smithson, and Christian Colson",False,127-hours-2010
+2010 (83rd),The Social Network,"Dana Brunetti, Ceán Chaffin, Michael De Luca, and Scott Rudin",False,the-social-network-2010
+2010 (83rd),Toy Story 3,Darla K. Anderson,False,toy-story-3-2010
+2010 (83rd),True Grit,"Joel Coen, Ethan Coen, and Scott Rudin",False,true-grit-2010
+2010 (83rd),Winter's Bone,Alix Madigan and Anne Rosellini,False,winters-bone-2010
+2011 (84th),The Artist,Thomas Langmann,True,the-artist-2011
+2011 (84th),The Descendants,"Jim Burke, Alexander Payne, and Jim Taylor",False,the-descendants-2011
+2011 (84th),Extremely Loud & Incredibly Close,Scott Rudin,False,extremely-loud-incredibly-close-2011
+2011 (84th),The Help,"Brunson Green, Chris Columbus, and Michael Barnathan",False,the-help-2011
+2011 (84th),Hugo,Graham King and Martin Scorsese,False,hugo-2011
+2011 (84th),Midnight in Paris,Letty Aronson and Stephen Tenenbaum,False,midnight-in-paris-2011
+2011 (84th),Moneyball,"Michael De Luca, Rachael Horovitz, and Brad Pitt",False,moneyball-2011
+2011 (84th),The Tree of Life,"Sarah Green, Bill Pohlad, Dede Gardner, and Grant Hill",False,the-tree-of-life-2011
+2011 (84th),War Horse,Steven Spielberg and Kathleen Kennedy,False,war-horse-2011
+2012 (85th),Argo,"Grant Heslov, Ben Affleck, and George Clooney",True,argo-2012
+2012 (85th),Amour,"Margaret Ménégoz, Stefan Arndt, Veit Heiduschka, and Michael Katz",False,amour-2012
+2012 (85th),Beasts of the Southern Wild,"Dan Janvey, Josh Penn, and Michael Gottwald",False,beasts-of-the-southern-wild-2012
+2012 (85th),Django Unchained,"Stacey Sher, Reginald Hudlin, and Pilar Savone",False,django-unchained-2012
+2012 (85th),Life of Pi,"Gil Netter, Ang Lee, and David Womark",False,life-of-pi-2012
+2012 (85th),Lincoln,Steven Spielberg and Kathleen Kennedy,False,lincoln-2012
+2012 (85th),Les Misérables,"Tim Bevan, Eric Fellner, Debra Hayward, and Cameron Mackintosh",False,les-miserables-2012
+2012 (85th),Silver Linings Playbook,"Donna Gigliotti, Bruce Cohen, and Jonathan Gordon",False,silver-linings-playbook-2012
+2012 (85th),Zero Dark Thirty,"Mark Boal, Kathryn Bigelow, and Megan Ellison",False,zero-dark-thirty-2012
+2013 (86th),12 Years a Slave,"Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen, and Anthony Katagas",True,12-years-a-slave-2013
+2013 (86th),American Hustle,"Charles Roven, Richard Suckle, Megan Ellison, and Jonathan Gordon",False,american-hustle-2013
+2013 (86th),Captain Phillips,"Scott Rudin, Dana Brunetti, and Michael De Luca",False,captain-phillips-2013
+2013 (86th),Dallas Buyers Club,Robbie Brenner and Rachel Winter,False,dallas-buyers-club-2013
+2013 (86th),Gravity,Alfonso Cuarón and David Heyman,False,gravity-2013
+2013 (86th),Her,"Megan Ellison, Spike Jonze, and Vincent Landay",False,her-2013
+2013 (86th),Nebraska,Albert Berger and Ron Yerxa,False,nebraska-2013
+2013 (86th),Philomena,"Gabrielle Tana, Steve Coogan, and Tracey Seaward",False,philomena-2013
+2013 (86th),The Wolf of Wall Street,"Martin Scorsese, Leonardo DiCaprio, Joey McFarland, and Emma Tillinger Koskoff",False,the-wolf-of-wall-street-2013
+2014 (87th),Birdman or (The Unexpected Virtue of Ignorance),"Alejandro González Iñárritu, John Lesher, and James W. Skotchdopole",True,birdman-or-the-unexpected-virtue-of-ignorance-2014
+2014 (87th),American Sniper,"Clint Eastwood, Andrew Lazar, Robert Lorenz, Bradley Cooper, and Peter Morgan",False,american-sniper-2014
+2014 (87th),Boyhood,Richard Linklater and Cathleen Sutherland,False,boyhood-2014
+2014 (87th),The Grand Budapest Hotel,"Wes Anderson, Scott Rudin, Steven Rales, and Jeremy Dawson",False,the-grand-budapest-hotel-2014
+2014 (87th),The Imitation Game,"Nora Grossman, Ido Ostrowsky, and Teddy Schwarzman",False,the-imitation-game-2014
+2014 (87th),Selma,"Christian Colson, Oprah Winfrey, Dede Gardner, and Jeremy Kleiner",False,selma-2014
+2014 (87th),The Theory of Everything,"Tim Bevan, Eric Fellner, Lisa Bruce, and Anthony McCarten",False,the-theory-of-everything-2014
+2014 (87th),Whiplash,"Jason Blum, Helen Estabrook, and David Lancaster",False,whiplash-2014
+2015 (88th),Spotlight,"Blye Pagon Faust, Steve Golin, Nicole Rocklin, and Michael Sugar",True,spotlight-2015
+2015 (88th),The Big Short,"Dede Gardner, Jeremy Kleiner, and Brad Pitt",False,the-big-short-2015
+2015 (88th),Bridge of Spies,"Steven Spielberg, Marc Platt, and Kristie Macosko Krieger",False,bridge-of-spies-2015
+2015 (88th),Brooklyn,Finola Dwyer and Amanda Posey,False,brooklyn-2015
+2015 (88th),Mad Max: Fury Road,Doug Mitchell and George Miller,False,mad-max-fury-road-2015
+2015 (88th),The Martian,"Simon Kinberg, Ridley Scott, Michael Schaefer, and Mark Huffam",False,the-martian-2015
+2015 (88th),The Revenant,"Arnon Milchan, Steve Golin, Alejandro González Iñárritu, Mary Parent, and Keith Redmon",False,the-revenant-2015
+2015 (88th),Room,Ed Guiney,False,room-2015
+2016 (89th),Moonlight,"Adele Romanski, Dede Gardner, and Jeremy Kleiner",True,moonlight-2016
+2016 (89th),Arrival,"Shawn Levy, Dan Levine, Aaron Ryder, and David Linde",False,arrival-2016
+2016 (89th),Fences,"Scott Rudin, Denzel Washington, and Todd Black",False,fences-2016
+2016 (89th),Hacksaw Ridge,Bill Mechanic and David Permut,False,hacksaw-ridge-2016
+2016 (89th),Hell or High Water,Carla Hacken and Julie Yorn,False,hell-or-high-water-2016
+2016 (89th),Hidden Figures,"Donna Gigliotti, Peter Chernin, Jenno Topping, Pharrell Williams, and Theodore Melfi",False,hidden-figures-2016
+2016 (89th),La La Land,"Fred Berger, Jordan Horowitz, and Marc Platt",False,la-la-land-2016
+2016 (89th),Lion,"Emile Sherman, Iain Canning, and Angie Fielder",False,lion-2016
+2016 (89th),Manchester by the Sea,"Matt Damon, Kimberly Steward, Chris Moore, Lauren Beck, and Kevin J. Walsh",False,manchester-by-the-sea-2016
+2017 (90th),The Shape of Water,Guillermo del Toro and J. Miles Dale,True,the-shape-of-water-2017
+2017 (90th),Call Me by Your Name,"Peter Spears, Luca Guadagnino, Emilie Georges, and Marco Morabito",False,call-me-by-your-name-2017
+2017 (90th),Darkest Hour,"Tim Bevan, Eric Fellner, Lisa Bruce, Anthony McCarten, and Douglas Urbanski",False,darkest-hour-2017
+2017 (90th),Dunkirk,Emma Thomas and Christopher Nolan,False,dunkirk-2017
+2017 (90th),Get Out,"Sean McKittrick, Jason Blum, Edward H. Hamm Jr., and Jordan Peele",False,get-out-2017
+2017 (90th),Lady Bird,"Scott Rudin, Eli Bush, and Evelyn O'Neill",False,lady-bird-2017
+2017 (90th),Phantom Thread,"JoAnne Sellar, Paul Thomas Anderson, Megan Ellison, and Daniel Lupi",False,phantom-thread-2017
+2017 (90th),The Post,"Amy Pascal, Steven Spielberg, and Kristie Macosko Krieger",False,the-post-2017
+2017 (90th),"Three Billboards Outside Ebbing, Missouri","Graham Broadbent, Peter Czernin, and Martin McDonagh",False,three-billboards-outside-ebbing-missouri-2017
+2018 (91st),Green Book,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly, and Nick Vallelonga",True,green-book-2018
+2018 (91st),Black Panther,Kevin Feige,False,black-panther-2018
+2018 (91st),BlacKkKlansman,"Sean McKittrick, Jason Blum, Raymond Mansfield, Jordan Peele, and Spike Lee",False,blackkklansman-2018
+2018 (91st),Bohemian Rhapsody,Graham King,False,bohemian-rhapsody-2018
+2018 (91st),The Favourite,"Ceci Dempsey, Ed Guiney, Lee Magiday, and Yorgos Lanthimos",False,the-favourite-2018
+2018 (91st),Roma,Gabriela Rodríguez and Alfonso Cuarón,False,roma-2018
+2018 (91st),A Star Is Born,"Bill Gerber, Bradley Cooper, and Lynette Howell Taylor",False,a-star-is-born-2018
+2018 (91st),Vice,"Dede Gardner, Jeremy Kleiner, Adam McKay, and Kevin Messick",False,vice-2018
+2019 (92nd),Parasite,Kwak Sin-ae and Bong Joon-ho,True,parasite-2019
+2019 (92nd),Ford v Ferrari,"Peter Chernin, Jenno Topping, and James Mangold",False,ford-v-ferrari-2019
+2019 (92nd),The Irishman,"Martin Scorsese, Robert De Niro, Jane Rosenthal, and Emma Tillinger Koskoff",False,the-irishman-2019
+2019 (92nd),Jojo Rabbit,"Carthew Neal, Taika Waititi, and Chelsea Winstanley",False,jojo-rabbit-2019
+2019 (92nd),Joker,"Todd Phillips, Bradley Cooper, and Emma Tillinger Koskoff",False,joker-2019
+2019 (92nd),Little Women,Amy Pascal,False,little-women-2019
+2019 (92nd),Marriage Story,Noah Baumbach and David Heyman,False,marriage-story-2019
+2019 (92nd),1917,"Sam Mendes, Pippa Harris, Jayne-Ann Tenggren, and Callum McDougall",False,1917-2019
+2019 (92nd),Once Upon a Time in Hollywood,"David Heyman, Shannon McIntosh, and Quentin Tarantino",False,once-upon-a-time-in-hollywood-2019
+2020 (93rd),Nomadland,"Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey, and Chloé Zhao",True,nomadland-2020
+2020 (93rd),The Father,"David Parfitt, Jean-Louis Livi, and Philippe Carcassonne",False,the-father-2020
+2020 (93rd),Judas and the Black Messiah,"Shaka King, Charles D. King, and Ryan Coogler",False,judas-and-the-black-messiah-2020
+2020 (93rd),Mank,"Ceán Chaffin, Eric Roth, and Douglas Urbanski",False,mank-2020
+2020 (93rd),Minari,Christina Oh,False,minari-2020
+2020 (93rd),Promising Young Woman,"Ben Browning, Ashley Fox, Emerald Fennell, and Josey McNamara",False,promising-young-woman-2020
+2020 (93rd),Sound of Metal,Bert Hamelinck and Sacha Ben Harroche,False,sound-of-metal-2020
+2020 (93rd),The Trial of the Chicago 7,Marc Platt and Stuart M. Besser,False,the-trial-of-the-chicago-7-2020
+2021 (94th),CODA,"Philippe Rousselet, Fabrice Gianfermi, and Patrick Wachsberger",True,coda-2021
+2021 (94th),Belfast,"Laura Berwick, Kenneth Branagh, Becca Kovacik, and Tamar Thomas",False,belfast-2021
+2021 (94th),Don't Look Up,Adam McKay and Kevin Messick,False,dont-look-up-2021
+2021 (94th),Drive My Car,Teruhisa Yamamoto,False,drive-my-car-2021
+2021 (94th),Dune,"Mary Parent, Denis Villeneuve, and Cale Boyter",False,dune-2021
+2021 (94th),King Richard,"Tim White, Trevor White, and Will Smith",False,king-richard-2021
+2021 (94th),Licorice Pizza,"Sara Murphy, Adam Somner, and Paul Thomas Anderson",False,licorice-pizza-2021
+2021 (94th),Nightmare Alley,"Guillermo del Toro, J. Miles Dale, and Bradley Cooper",False,nightmare-alley-2021
+2021 (94th),The Power of the Dog,"Jane Campion, Tanya Seghatchian, Emile Sherman, Iain Canning, and Roger Frappier",False,the-power-of-the-dog-2021
+2021 (94th),West Side Story,Steven Spielberg and Kristie Macosko Krieger,False,west-side-story-2021
+2022 (95th),Everything Everywhere All at Once,"Daniel Kwan, Daniel Scheinert, and Jonathan Wang",True,everything-everywhere-all-at-once-2022
+2022 (95th),All Quiet on the Western Front,Malte Grunert,False,all-quiet-on-the-western-front-2022
+2022 (95th),Avatar: The Way of Water,James Cameron and Jon Landau,False,avatar-the-way-of-water-2022
+2022 (95th),The Banshees of Inisherin,"Graham Broadbent, Peter Czernin, and Martin McDonagh",False,the-banshees-of-inisherin-2022
+2022 (95th),Elvis,"Baz Luhrmann, Catherine Martin, Gail Berman, Patrick McCormick, and Schuyler Weiss",False,elvis-2022
+2022 (95th),The Fabelmans,"Kristie Macosko Krieger, Steven Spielberg, and Tony Kushner",False,the-fabelmans-2022
+2022 (95th),Tár,"Todd Field, Alexandra Milchan, and Scott Lambert",False,tar-2022
+2022 (95th),Top Gun: Maverick,"Tom Cruise, Christopher McQuarrie, David Ellison, and Jerry Bruckheimer",False,top-gun-maverick-2022
+2022 (95th),Triangle of Sadness,Erik Hemmendorff and Philippe Bober,False,triangle-of-sadness-2022
+2022 (95th),Women Talking,"Dede Gardner, Jeremy Kleiner, and Frances McDormand",False,women-talking-2022
+2023 (96th),Oppenheimer,"Emma Thomas, Charles Roven, and Christopher Nolan",True,oppenheimer-2023
+2023 (96th),American Fiction,"Ben LeClair, Nikos Karamigios, Cord Jefferson, and Jermaine Johnson",False,american-fiction-2023
+2023 (96th),Anatomy of a Fall,Marie-Ange Luciani and David Thion,False,anatomy-of-a-fall-2023
+2023 (96th),Barbie,"David Heyman, Margot Robbie, Tom Ackerley, and Robbie Brenner",False,barbie-2023
+2023 (96th),The Holdovers,Mark Johnson,False,the-holdovers-2023
+2023 (96th),Killers of the Flower Moon,"Dan Friedkin, Bradley Thomas, Martin Scorsese, and Daniel Lupi",False,killers-of-the-flower-moon-2023
+2023 (96th),Maestro,"Bradley Cooper, Steven Spielberg, Fred Berner, Amy Durning, and Kristie Macosko Krieger",False,maestro-2023
+2023 (96th),Past Lives,"David Hinojosa, Christine Vachon, and Pamela Koffler",False,past-lives-2023
+2023 (96th),Poor Things,"Ed Guiney, Andrew Lowe, Yorgos Lanthimos, and Emma Stone",False,poor-things-2023
+2023 (96th),The Zone of Interest,James Wilson,False,the-zone-of-interest-2023
+2024 (97th),Anora,"Alex Coco, Samantha Quan, and Sean Baker",True,anora-2024
+2024 (97th),The Brutalist,"Nick Gordon, Brian Young, Andrew Morrison, D.J. Gugenheim, and Brady Corbet",False,the-brutalist-2024
+2024 (97th),A Complete Unknown,"Fred Berger, James Mangold, and Alex Heineman",False,a-complete-unknown-2024
+2024 (97th),Conclave,"Tessa Ross, Juliette Howell, and Michael A. Jackman",False,conclave-2024
+2024 (97th),Dune: Part Two,"Mary Parent, Cale Boyter, Tanya Lapointe, and Denis Villeneuve",False,dune-part-two-2024
+2024 (97th),Emilia Pérez,Pascal Caucheteux and Jacques Audiard,False,emilia-perez-2024
+2024 (97th),I'm Still Here,Maria Carlota Bruno and Rodrigo Teixeira,False,im-still-here-2024
+2024 (97th),Nickel Boys,"Dede Gardner, Jeremy Kleiner, and Joslyn Barnes",False,nickel-boys-2024
+2024 (97th),The Substance,"Coralie Fargeat, Tim Bevan, and Eric Fellner",False,the-substance-2024
+2024 (97th),Wicked,Marc Platt,False,wicked-2024

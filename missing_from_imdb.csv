@@ -1,0 +1,219 @@
+Film,Year of Film Release,clean_name,is_winner
+All Quiet on the Western Front,1929/30 (3rd),all-quiet-on-the-western-front-1929,True
+Little Women,1932/33 (6th) [b],little-women-1932,False
+Cleopatra,1934 (7th) [c],cleopatra-1934,False
+Mutiny on the Bounty,1935 (8th) [d],mutiny-on-the-bounty-1935,True
+Les Misérables,1935 (8th) [d],les-miserables-1935,False
+Romeo and Juliet,1936 (9th),romeo-and-juliet-1936,False
+A Star Is Born,1937 (10th),a-star-is-born-1937,False
+Heaven Can Wait,1943 (16th),heaven-can-wait-1943,False
+West Side Story,1961 (34th),west-side-story-1961,True
+Babe,1995 (68th),babe-1995,False
+Il Postino: The Postman,1995 (68th),il-postino-the-postman-1995,False
+Sense and Sensibility,1995 (68th),sense-and-sensibility-1995,False
+The English Patient,1996 (69th),the-english-patient-1996,True
+Fargo,1996 (69th),fargo-1996,False
+Jerry Maguire,1996 (69th),jerry-maguire-1996,False
+Secrets & Lies,1996 (69th),secrets-lies-1996,False
+Shine,1996 (69th),shine-1996,False
+Titanic,1997 (70th),titanic-1997,True
+As Good as It Gets,1997 (70th),as-good-as-it-gets-1997,False
+The Full Monty,1997 (70th),the-full-monty-1997,False
+Good Will Hunting,1997 (70th),good-will-hunting-1997,False
+L.A. Confidential,1997 (70th),la-confidential-1997,False
+Shakespeare in Love,1998 (71st),shakespeare-in-love-1998,True
+Elizabeth,1998 (71st),elizabeth-1998,False
+Life Is Beautiful,1998 (71st),life-is-beautiful-1998,False
+Saving Private Ryan,1998 (71st),saving-private-ryan-1998,False
+The Thin Red Line,1998 (71st),the-thin-red-line-1998,False
+American Beauty,1999 (72nd),american-beauty-1999,True
+The Cider House Rules,1999 (72nd),the-cider-house-rules-1999,False
+The Green Mile,1999 (72nd),the-green-mile-1999,False
+The Insider,1999 (72nd),the-insider-1999,False
+The Sixth Sense,1999 (72nd),the-sixth-sense-1999,False
+Gladiator,2000 (73rd),gladiator-2000,True
+Chocolat,2000 (73rd),chocolat-2000,False
+"Crouching Tiger, Hidden Dragon",2000 (73rd),crouching-tiger-hidden-dragon-2000,False
+Erin Brockovich,2000 (73rd),erin-brockovich-2000,False
+Traffic,2000 (73rd),traffic-2000,False
+A Beautiful Mind,2001 (74th),a-beautiful-mind-2001,True
+Gosford Park,2001 (74th),gosford-park-2001,False
+In the Bedroom,2001 (74th),in-the-bedroom-2001,False
+The Lord of the Rings: The Fellowship of the Ring,2001 (74th),the-lord-of-the-rings-the-fellowship-of-the-ring-2001,False
+Moulin Rouge!,2001 (74th),moulin-rouge-2001,False
+Chicago,2002 (75th),chicago-2002,True
+Gangs of New York,2002 (75th),gangs-of-new-york-2002,False
+The Hours,2002 (75th),the-hours-2002,False
+The Lord of the Rings: The Two Towers,2002 (75th),the-lord-of-the-rings-the-two-towers-2002,False
+The Pianist,2002 (75th),the-pianist-2002,False
+The Lord of the Rings: The Return of the King,2003 (76th),the-lord-of-the-rings-the-return-of-the-king-2003,True
+Lost in Translation,2003 (76th),lost-in-translation-2003,False
+Master and Commander: The Far Side of the World,2003 (76th),master-and-commander-the-far-side-of-the-world-2003,False
+Mystic River,2003 (76th),mystic-river-2003,False
+Seabiscuit,2003 (76th),seabiscuit-2003,False
+Million Dollar Baby,2004 (77th),million-dollar-baby-2004,True
+The Aviator,2004 (77th),the-aviator-2004,False
+Finding Neverland,2004 (77th),finding-neverland-2004,False
+Ray,2004 (77th),ray-2004,False
+Sideways,2004 (77th),sideways-2004,False
+Crash,2005 (78th),crash-2005,True
+Brokeback Mountain,2005 (78th),brokeback-mountain-2005,False
+Capote,2005 (78th),capote-2005,False
+"Good Night, and Good Luck",2005 (78th),good-night-and-good-luck-2005,False
+Munich,2005 (78th),munich-2005,False
+The Departed,2006 (79th),the-departed-2006,True
+Babel,2006 (79th),babel-2006,False
+Letters from Iwo Jima,2006 (79th),letters-from-iwo-jima-2006,False
+Little Miss Sunshine,2006 (79th),little-miss-sunshine-2006,False
+The Queen,2006 (79th),the-queen-2006,False
+No Country for Old Men,2007 (80th),no-country-for-old-men-2007,True
+Atonement,2007 (80th),atonement-2007,False
+Juno,2007 (80th),juno-2007,False
+Michael Clayton,2007 (80th),michael-clayton-2007,False
+There Will Be Blood,2007 (80th),there-will-be-blood-2007,False
+Slumdog Millionaire,2008 (81st),slumdog-millionaire-2008,True
+The Curious Case of Benjamin Button,2008 (81st),the-curious-case-of-benjamin-button-2008,False
+Frost/Nixon,2008 (81st),frost-nixon-2008,False
+Milk,2008 (81st),milk-2008,False
+The Reader,2008 (81st),the-reader-2008,False
+The Hurt Locker,2009 (82nd),the-hurt-locker-2009,True
+Avatar,2009 (82nd),avatar-2009,False
+The Blind Side,2009 (82nd),the-blind-side-2009,False
+District 9,2009 (82nd),district-9-2009,False
+An Education,2009 (82nd),an-education-2009,False
+Inglourious Basterds,2009 (82nd),inglourious-basterds-2009,False
+"Precious: Based on the Novel ""Push"" by Sapphire",2009 (82nd),precious-based-on-the-novel-push-by-sapphire-2009,False
+A Serious Man,2009 (82nd),a-serious-man-2009,False
+Up,2009 (82nd),up-2009,False
+Up in the Air,2009 (82nd),up-in-the-air-2009,False
+The King's Speech,2010 (83rd),the-kings-speech-2010,True
+Black Swan,2010 (83rd),black-swan-2010,False
+The Fighter,2010 (83rd),the-fighter-2010,False
+Inception,2010 (83rd),inception-2010,False
+The Kids Are All Right,2010 (83rd),the-kids-are-all-right-2010,False
+127 Hours,2010 (83rd),127-hours-2010,False
+The Social Network,2010 (83rd),the-social-network-2010,False
+Toy Story 3,2010 (83rd),toy-story-3-2010,False
+True Grit,2010 (83rd),true-grit-2010,False
+Winter's Bone,2010 (83rd),winters-bone-2010,False
+The Artist,2011 (84th),the-artist-2011,True
+The Descendants,2011 (84th),the-descendants-2011,False
+Extremely Loud & Incredibly Close,2011 (84th),extremely-loud-incredibly-close-2011,False
+The Help,2011 (84th),the-help-2011,False
+Hugo,2011 (84th),hugo-2011,False
+Midnight in Paris,2011 (84th),midnight-in-paris-2011,False
+Moneyball,2011 (84th),moneyball-2011,False
+The Tree of Life,2011 (84th),the-tree-of-life-2011,False
+War Horse,2011 (84th),war-horse-2011,False
+Argo,2012 (85th),argo-2012,True
+Amour,2012 (85th),amour-2012,False
+Beasts of the Southern Wild,2012 (85th),beasts-of-the-southern-wild-2012,False
+Django Unchained,2012 (85th),django-unchained-2012,False
+Life of Pi,2012 (85th),life-of-pi-2012,False
+Lincoln,2012 (85th),lincoln-2012,False
+Silver Linings Playbook,2012 (85th),silver-linings-playbook-2012,False
+Zero Dark Thirty,2012 (85th),zero-dark-thirty-2012,False
+12 Years a Slave,2013 (86th),12-years-a-slave-2013,True
+American Hustle,2013 (86th),american-hustle-2013,False
+Captain Phillips,2013 (86th),captain-phillips-2013,False
+Dallas Buyers Club,2013 (86th),dallas-buyers-club-2013,False
+Gravity,2013 (86th),gravity-2013,False
+Her,2013 (86th),her-2013,False
+Nebraska,2013 (86th),nebraska-2013,False
+Philomena,2013 (86th),philomena-2013,False
+The Wolf of Wall Street,2013 (86th),the-wolf-of-wall-street-2013,False
+Birdman or (The Unexpected Virtue of Ignorance),2014 (87th),birdman-or-the-unexpected-virtue-of-ignorance-2014,True
+American Sniper,2014 (87th),american-sniper-2014,False
+Boyhood,2014 (87th),boyhood-2014,False
+The Grand Budapest Hotel,2014 (87th),the-grand-budapest-hotel-2014,False
+The Imitation Game,2014 (87th),the-imitation-game-2014,False
+Selma,2014 (87th),selma-2014,False
+The Theory of Everything,2014 (87th),the-theory-of-everything-2014,False
+Whiplash,2014 (87th),whiplash-2014,False
+Spotlight,2015 (88th),spotlight-2015,True
+The Big Short,2015 (88th),the-big-short-2015,False
+Bridge of Spies,2015 (88th),bridge-of-spies-2015,False
+Brooklyn,2015 (88th),brooklyn-2015,False
+Mad Max: Fury Road,2015 (88th),mad-max-fury-road-2015,False
+The Martian,2015 (88th),the-martian-2015,False
+The Revenant,2015 (88th),the-revenant-2015,False
+Room,2015 (88th),room-2015,False
+Moonlight,2016 (89th),moonlight-2016,True
+Arrival,2016 (89th),arrival-2016,False
+Fences,2016 (89th),fences-2016,False
+Hacksaw Ridge,2016 (89th),hacksaw-ridge-2016,False
+Hell or High Water,2016 (89th),hell-or-high-water-2016,False
+Hidden Figures,2016 (89th),hidden-figures-2016,False
+La La Land,2016 (89th),la-la-land-2016,False
+Lion,2016 (89th),lion-2016,False
+Manchester by the Sea,2016 (89th),manchester-by-the-sea-2016,False
+The Shape of Water,2017 (90th),the-shape-of-water-2017,True
+Call Me by Your Name,2017 (90th),call-me-by-your-name-2017,False
+Darkest Hour,2017 (90th),darkest-hour-2017,False
+Dunkirk,2017 (90th),dunkirk-2017,False
+Get Out,2017 (90th),get-out-2017,False
+Lady Bird,2017 (90th),lady-bird-2017,False
+Phantom Thread,2017 (90th),phantom-thread-2017,False
+The Post,2017 (90th),the-post-2017,False
+"Three Billboards Outside Ebbing, Missouri",2017 (90th),three-billboards-outside-ebbing-missouri-2017,False
+Green Book,2018 (91st),green-book-2018,True
+Black Panther,2018 (91st),black-panther-2018,False
+BlacKkKlansman,2018 (91st),blackkklansman-2018,False
+Bohemian Rhapsody,2018 (91st),bohemian-rhapsody-2018,False
+The Favourite,2018 (91st),the-favourite-2018,False
+Roma,2018 (91st),roma-2018,False
+Vice,2018 (91st),vice-2018,False
+Parasite,2019 (92nd),parasite-2019,True
+Ford v Ferrari,2019 (92nd),ford-v-ferrari-2019,False
+The Irishman,2019 (92nd),the-irishman-2019,False
+Jojo Rabbit,2019 (92nd),jojo-rabbit-2019,False
+Joker,2019 (92nd),joker-2019,False
+Marriage Story,2019 (92nd),marriage-story-2019,False
+1917,2019 (92nd),1917-2019,False
+Once Upon a Time in Hollywood,2019 (92nd),once-upon-a-time-in-hollywood-2019,False
+Nomadland,2020 (93rd),nomadland-2020,True
+The Father,2020 (93rd),the-father-2020,False
+Judas and the Black Messiah,2020 (93rd),judas-and-the-black-messiah-2020,False
+Mank,2020 (93rd),mank-2020,False
+Minari,2020 (93rd),minari-2020,False
+Promising Young Woman,2020 (93rd),promising-young-woman-2020,False
+Sound of Metal,2020 (93rd),sound-of-metal-2020,False
+The Trial of the Chicago 7,2020 (93rd),the-trial-of-the-chicago-7-2020,False
+CODA,2021 (94th),coda-2021,True
+Belfast,2021 (94th),belfast-2021,False
+Don't Look Up,2021 (94th),dont-look-up-2021,False
+Drive My Car,2021 (94th),drive-my-car-2021,False
+Dune,2021 (94th),dune-2021,False
+King Richard,2021 (94th),king-richard-2021,False
+Licorice Pizza,2021 (94th),licorice-pizza-2021,False
+Nightmare Alley,2021 (94th),nightmare-alley-2021,False
+The Power of the Dog,2021 (94th),the-power-of-the-dog-2021,False
+Everything Everywhere All at Once,2022 (95th),everything-everywhere-all-at-once-2022,True
+Avatar: The Way of Water,2022 (95th),avatar-the-way-of-water-2022,False
+The Banshees of Inisherin,2022 (95th),the-banshees-of-inisherin-2022,False
+Elvis,2022 (95th),elvis-2022,False
+The Fabelmans,2022 (95th),the-fabelmans-2022,False
+Tár,2022 (95th),tar-2022,False
+Top Gun: Maverick,2022 (95th),top-gun-maverick-2022,False
+Triangle of Sadness,2022 (95th),triangle-of-sadness-2022,False
+Women Talking,2022 (95th),women-talking-2022,False
+Oppenheimer,2023 (96th),oppenheimer-2023,True
+American Fiction,2023 (96th),american-fiction-2023,False
+Anatomy of a Fall,2023 (96th),anatomy-of-a-fall-2023,False
+Barbie,2023 (96th),barbie-2023,False
+The Holdovers,2023 (96th),the-holdovers-2023,False
+Killers of the Flower Moon,2023 (96th),killers-of-the-flower-moon-2023,False
+Maestro,2023 (96th),maestro-2023,False
+Past Lives,2023 (96th),past-lives-2023,False
+Poor Things,2023 (96th),poor-things-2023,False
+The Zone of Interest,2023 (96th),the-zone-of-interest-2023,False
+Anora,2024 (97th),anora-2024,True
+The Brutalist,2024 (97th),the-brutalist-2024,False
+A Complete Unknown,2024 (97th),a-complete-unknown-2024,False
+Conclave,2024 (97th),conclave-2024,False
+Dune: Part Two,2024 (97th),dune-part-two-2024,False
+Emilia Pérez,2024 (97th),emilia-perez-2024,False
+I'm Still Here,2024 (97th),im-still-here-2024,False
+Nickel Boys,2024 (97th),nickel-boys-2024,False
+The Substance,2024 (97th),the-substance-2024,False
+Wicked,2024 (97th),wicked-2024,False

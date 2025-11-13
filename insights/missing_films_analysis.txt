@@ -1,0 +1,234 @@
+================================================================================
+MISSING FILMS ANALYSIS
+================================================================================
+
+Total unique films in each dataset:
+  - Wikipedia: 611
+  - IMDB: 393
+  - Letterboxd: 611
+  - Rotten Tomatoes: 468
+
+
+In Wikipedia but not in IMDB: 611 films
+----------------------------------------
+  - 12-angry-men-1957
+  - 12-years-a-slave-2013
+  - 127-hours-2010
+  - 1917-2019
+  - 42nd-street-1932
+  - 49th-parallel-1942
+  - 7th-heaven-1927
+  - a-beautiful-mind-2001
+  - a-clockwork-orange-1971
+  - a-complete-unknown-2024
+  - a-farewell-to-arms-1932
+  - a-few-good-men-1992
+  - a-letter-to-three-wives-1949
+  - a-man-for-all-seasons-1966
+  - a-midsummer-nights-dream-1935
+  - a-passage-to-india-1984
+  - a-place-in-the-sun-1951
+  - a-room-with-a-view-1986
+  - a-serious-man-2009
+  - a-soldiers-story-1984
+  - a-star-is-born-1937
+  - a-star-is-born-2018
+  - a-streetcar-named-desire-1951
+  - a-tale-of-two-cities-1936
+  - a-thousand-clowns-1965
+  - a-touch-of-class-1973
+  - airport-1970
+  - alexanders-ragtime-band-1938
+  - alfie-1966
+  - alibi-1928
+  - alice-adams-1935
+  - all-about-eve-1950
+  - all-quiet-on-the-western-front-1929
+  - all-quiet-on-the-western-front-2022
+  - all-that-jazz-1979
+  - all-the-kings-men-1949
+  - all-the-presidents-men-1976
+  - all-this-and-heaven-too-1940
+  - amadeus-1984
+  - america-america-1963
+  - american-beauty-1999
+  - american-fiction-2023
+  - american-graffiti-1973
+  - american-hustle-2013
+  - american-sniper-2014
+  - amour-2012
+  - an-american-in-paris-1951
+  - an-education-2009
+  - an-unmarried-woman-1978
+  - anatomy-of-a-fall-2023
+  ... and 561 more
+
+In Wikipedia but not in Letterboxd: 1 films
+----------------------------------------
+  - il-postino-the-postman-1995
+
+In Wikipedia but not in Rotten Tomatoes: 611 films
+----------------------------------------
+  - 12-angry-men-1957
+  - 12-years-a-slave-2013
+  - 127-hours-2010
+  - 1917-2019
+  - 42nd-street-1932
+  - 49th-parallel-1942
+  - 7th-heaven-1927
+  - a-beautiful-mind-2001
+  - a-clockwork-orange-1971
+  - a-complete-unknown-2024
+  - a-farewell-to-arms-1932
+  - a-few-good-men-1992
+  - a-letter-to-three-wives-1949
+  - a-man-for-all-seasons-1966
+  - a-midsummer-nights-dream-1935
+  - a-passage-to-india-1984
+  - a-place-in-the-sun-1951
+  - a-room-with-a-view-1986
+  - a-serious-man-2009
+  - a-soldiers-story-1984
+  - a-star-is-born-1937
+  - a-star-is-born-2018
+  - a-streetcar-named-desire-1951
+  - a-tale-of-two-cities-1936
+  - a-thousand-clowns-1965
+  - a-touch-of-class-1973
+  - airport-1970
+  - alexanders-ragtime-band-1938
+  - alfie-1966
+  - alibi-1928
+  - alice-adams-1935
+  - all-about-eve-1950
+  - all-quiet-on-the-western-front-1929
+  - all-quiet-on-the-western-front-2022
+  - all-that-jazz-1979
+  - all-the-kings-men-1949
+  - all-the-presidents-men-1976
+  - all-this-and-heaven-too-1940
+  - amadeus-1984
+  - america-america-1963
+  - american-beauty-1999
+  - american-fiction-2023
+  - american-graffiti-1973
+  - american-hustle-2013
+  - american-sniper-2014
+  - amour-2012
+  - an-american-in-paris-1951
+  - an-education-2009
+  - an-unmarried-woman-1978
+  - anatomy-of-a-fall-2023
+  ... and 561 more
+
+In IMDB but not in Wikipedia: 393 films
+----------------------------------------
+  - 12-angry-men
+  - 42nd-street
+  - 49th-parallel
+  - 7th-heaven
+  - a-clockwork-orange
+  - a-farewell-to-arms
+  - a-few-good-men
+  - a-letter-to-three-wives
+  - a-man-for-all-seasons
+  - a-midsummer-night's-dream
+  - a-passage-to-india
+  - a-place-in-the-sun
+  - a-room-with-a-view
+  - a-soldier's-story
+  - a-star-is-born
+  - a-streetcar-named-desire
+  - a-tale-of-two-cities
+  - a-thousand-clowns
+  - a-touch-of-class
+  - airport
+  - alexander's-ragtime-band
+  - alfie
+  - alibi
+  - alice-adams
+  - all-about-eve
+  - all-quiet-on-the-western-front
+  - all-that-jazz
+  - all-the-king's-men
+  - all-the-president's-men
+  - all-this,-and-heaven-too
+  - amadeus
+  - america-america
+  - american-graffiti
+  - an-american-in-paris
+  - an-unmarried-woman
+  - anatomy-of-a-murder
+  - anchors-aweigh
+  - anne-of-the-thousand-days
+  - annie-hall
+  - anthony-adverse
+  - apocalypse-now
+  - apollo-13
+  - around-the-world-in-80-days
+  - arrowsmith
+  - atlantic-city
+  - auntie-mame
+  - awakenings
+  - bad-girl
+  - barry-lyndon
+  - battleground
+  ... and 343 more
+
+In Letterboxd but not in Wikipedia: 1 films
+----------------------------------------
+  - il-postiono-the-postman-1995
+
+In Rotten Tomatoes but not in Wikipedia: 468 films
+----------------------------------------
+  - 127_hours_2010
+  - 12_years_a_slave_2013
+  - 1917_2019
+  - 42nd_street
+  - 49th_parallel
+  - 7th_heaven
+  - a_beautiful_mind
+  - a_complete_unknown
+  - a_passage_to_india
+  - a_room_with_a_view
+  - a_serious_man
+  - a_soldiers_story
+  - a_star_is_born
+  - a_star_is_born_2018
+  - a_streetcar_named_desire_1951
+  - airport
+  - alexanders_ragtime_band
+  - alfie
+  - alibi
+  - alice_adams_1935
+  - all_quiet_on_the_western_front
+  - all_quiet_on_the_western_front_2022
+  - all_that_jazz
+  - all_the_kings_men
+  - all_the_presidents_men_1976
+  - all_this_and_heaven_too_1940
+  - amadeus
+  - america_america_1963
+  - american_beauty
+  - american_fiction
+  - american_graffiti
+  - american_hustle_2013
+  - american_sniper
+  - amour_2012
+  - an_american_in_paris
+  - an_education
+  - anatomy_of_a_fall
+  - anatomy_of_a_murder
+  - anchors_aweigh_1945
+  - anne_of_the_thousand_days
+  - annie_hall
+  - anora
+  - anthony_adverse
+  - apocalypse_now
+  - apollo_13
+  - argo_2012
+  - around_the_world_in_80_days_1956
+  - arrival_2016
+  - arrowsmith
+  - as_good_as_it_gets
+  ... and 418 more

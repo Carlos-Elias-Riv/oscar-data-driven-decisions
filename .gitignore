@@ -11,3 +11,13 @@ wheels/
 .python-version
 pyproject.toml
 uv.lock
+
+# Node.js dependencies
+node_modules/
+
+# Log files
+*.log
+
+# Generated CSV output files
+*_updated.csv
+fetch_summary.json

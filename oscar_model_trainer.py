@@ -216,7 +216,7 @@ def calculate_betting_proportions(df):
     return df
 
 
-def add_belief_heterogeneity(df, lambda_param=0.14, noise_scale=0.05, n_bettors=1000):
+def add_belief_heterogeneity(df, lambda_param=0.14, noise_scale=0.2, n_bettors=1000, belief_probability_col='implied_probability'):
     """
     Add belief heterogeneity using Tukey-Lambda distribution.
     Simulates a pool of bettors per year that distribute their bets.
@@ -226,6 +226,8 @@ def add_belief_heterogeneity(df, lambda_param=0.14, noise_scale=0.05, n_bettors=
     - lambda_param: shape parameter of Tukey-Lambda (0.14 ~ normal)
     - noise_scale: scale of noise to add
     - n_bettors: number of simulated bettors per year
+    - belief_probability_col: column name containing the probability that bettors believe
+                              (default: 'implied_probability')
     
     Returns:
     - DataFrame with belief heterogeneity columns
@@ -247,7 +249,7 @@ def add_belief_heterogeneity(df, lambda_param=0.14, noise_scale=0.05, n_bettors=
         beliefs_matrix = np.zeros((n_bettors, n_films))
         
         for film_idx, (idx, row) in enumerate(year_films.iterrows()):
-            center = row['implied_probability']
+            center = row[belief_probability_col]
             tukey_samples = stats.tukeylambda.rvs(lambda_param, size=n_bettors)
             beliefs = center + noise_scale * tukey_samples
             beliefs = np.clip(beliefs, 0, 1)
@@ -276,9 +278,9 @@ def add_belief_heterogeneity(df, lambda_param=0.14, noise_scale=0.05, n_bettors=
             belief_stds.append(beliefs_matrix[:, film_idx].std())
             prop_active_bettors.append(film_proportions[film_idx])
     
-    df['belief_mean'] = belief_means
-    df['belief_std'] = belief_stds
-    df['prop_active_bettors'] = prop_active_bettors
+    # df['belief_mean'] = belief_means
+    # df['belief_std'] = belief_stds
+    df[f'prop_active_bettors_{belief_probability_col}'] = prop_active_bettors
     
     return df
 
@@ -332,8 +334,8 @@ def get_predictions(years_back=5, min_train_years=20, data_path=None):
     # Calculate fair odds
     predictions['fair_odds'] = 1 / predictions['Logistic_Probability']
     
-    # Add belief heterogeneity
-    predictions = add_belief_heterogeneity(predictions)
+    # Add belief heterogeneity (bettors believe the logistic model probabilities)
+    predictions = add_belief_heterogeneity(predictions, belief_probability_col='Logistic_Probability')
     
     return predictions
 
@@ -360,7 +362,7 @@ def calculate_bettors_with_elasticity(base_bettors, base_overround, overround, e
     return int(base_bettors * (1 + pct_change_bettors))
 
 
-def calculate_betting_house_revenue(df, overround, total_bettors, bet_amount=10, fair_odds_col='fair_odds'):
+def calculate_betting_house_revenue(df, overround, total_bettors, bet_amount=10, fair_odds_col='fair_odds', prop_active_bettors_col='prop_active_bettors'):
     """
     Calculate actual betting house revenue for a given overround scenario.
     
@@ -370,6 +372,7 @@ def calculate_betting_house_revenue(df, overround, total_bettors, bet_amount=10,
     - total_bettors: Total number of bettors
     - bet_amount: Amount each bettor bets (default $10)
     - fair_odds_col: Column name containing fair odds values (default 'fair_odds')
+    - prop_active_bettors_col: Column name containing bettor proportions (default 'prop_active_bettors')
     
     Returns:
     - DataFrame with revenue breakdown by year
@@ -385,7 +388,7 @@ def calculate_betting_house_revenue(df, overround, total_bettors, bet_amount=10,
         year_data = df[df['Year'] == year].copy()
         total_stakes = total_bettors * bet_amount
         
-        year_data['num_bettors'] = year_data['prop_active_bettors'] * total_bettors
+        year_data['num_bettors'] = year_data[prop_active_bettors_col] * total_bettors
         year_data['stakes_on_film'] = year_data['num_bettors'] * bet_amount
         
         winner_mask = year_data['Actual_Winner'] == 1
@@ -409,7 +412,7 @@ def calculate_betting_house_revenue(df, overround, total_bettors, bet_amount=10,
     return pd.DataFrame(results)
 
 
-def calculate_expected_revenue(df, overround, total_bettors, bet_amount=10, probability_col='Logistic_Probability', fair_odds_col='fair_odds'):
+def calculate_expected_revenue(df, overround, total_bettors, bet_amount=10, probability_col='Logistic_Probability', fair_odds_col='fair_odds', prop_active_bettors_col='prop_active_bettors'):
     """
     Calculate expected revenue based on probability predictions.
     
@@ -424,6 +427,7 @@ def calculate_expected_revenue(df, overround, total_bettors, bet_amount=10, prob
     - bet_amount: Amount each bettor bets
     - probability_col: Column name containing probability values (default 'Logistic_Probability')
     - fair_odds_col: Column name containing fair odds values (default 'fair_odds')
+    - prop_active_bettors_col: Column name containing bettor proportions (default 'prop_active_bettors')
     
     Returns:
     - DataFrame with expected revenue breakdown by year
@@ -439,7 +443,7 @@ def calculate_expected_revenue(df, overround, total_bettors, bet_amount=10, prob
         year_data = df[df['Year'] == year].copy()
         total_stakes = total_bettors * bet_amount
         
-        year_data['num_bettors'] = year_data['prop_active_bettors'] * total_bettors
+        year_data['num_bettors'] = year_data[prop_active_bettors_col] * total_bettors
         year_data['stakes_on_film'] = year_data['num_bettors'] * bet_amount
         
         # Calculate expected payout using the specified probability column

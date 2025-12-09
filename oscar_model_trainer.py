@@ -338,19 +338,26 @@ def get_predictions(years_back=5, min_train_years=20, data_path=None):
     return predictions
 
 
-def calculate_bettors_with_elasticity(base_bettors, overround, elasticity=-0.7):
+def calculate_bettors_with_elasticity(base_bettors, base_overround, overround, elasticity=-0.7):
     """
     Calculate number of bettors given overround and elasticity.
     
     Parameters:
-    - base_bettors: Base number of bettors at 0% overround
-    - overround: Overround percentage (e.g., 0.1 for 10%)
+    - base_bettors: Number of bettors at the base overround level
+    - base_overround: Reference overround level (e.g., 0.1 for 10%)
+    - overround: Target overround percentage
     - elasticity: Price elasticity of demand (default -0.7)
     
     Returns:
     - Number of bettors
     """
-    return int(base_bettors * (1 + elasticity * overround))
+    # Calculate percentage change in overround
+    pct_change_overround = (overround - base_overround) / base_overround
+    
+    # Apply elasticity: % change in bettors = elasticity * % change in price
+    pct_change_bettors = elasticity * pct_change_overround
+    
+    return int(base_bettors * (1 + pct_change_bettors))
 
 
 def calculate_betting_house_revenue(df, overround, total_bettors, bet_amount=10, fair_odds_col='fair_odds'):
